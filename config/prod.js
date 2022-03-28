@@ -1,3 +1,3 @@
 module.exports = {
-  'dbURL': 'mongodb+srv://theUser:thePass@cluster0-klgzh.mongodb.net/test?retryWrites=true&w=majority',
+  'dbURL': 'mongodb+srv://yossi:huxh1986@cluster0.eieqe.mongodb.net/airbyy_db?retryWrites=true&w=majority',
 }

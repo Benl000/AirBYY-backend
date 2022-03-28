@@ -1,4 +1,4 @@
-const logger = require('../services/logger.service')
+const logger = require('../service/logger.service')
 
 async function requireAuth(req, res, next) {
   if (!req.session || !req.session.user) {

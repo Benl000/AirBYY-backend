@@ -19,9 +19,8 @@ async function query(filterBy) {
 async function getById(roomId) {
     try {
         const collection = await dbService.getCollection('room')
-        const room = await collection.findOne({ '_id': roomId })
-        // const room = await collection.findOne({'_id': ObjectId(roomId) })
-        console.log(room);
+        // const room = await collection.findOne({ '_id': roomId })
+        const room = await collection.findOne({'_id': ObjectId(roomId) })
         return room
     } catch (err) {
         logger.error('cannot find room', err)

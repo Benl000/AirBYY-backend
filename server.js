@@ -32,14 +32,14 @@ app.use(express.static("public"));
 
     // const authRoutes = require('./api/auth/auth.routes')
     // const authRoutes = require('./api/auth/auth.routes')
-    // const userRoutes = require('./api/user/user.routes')
+    const userRoutes = require('./api/user/user.routes')
     const roomRoutes = require('./api/room/room.routes')
 
 
     // routes
 
     // app.use('/api/auth',authRoutes)
-    // app.use('/api/user',userRoutes)
+    app.use('/api/user',userRoutes)
     app.use('/api/room',roomRoutes)
 
 
