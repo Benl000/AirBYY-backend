@@ -30,8 +30,8 @@ async function getRoomById(req, res){
 module.exports = {
     getRooms,
     getRoomById,
-    // getToyById,
-    // addToy,
-    // updateToy,
-    // removeToy
+    // getRoomById,
+    // addRoom,
+    // updateRoom,
+    // removeRoom
   }
