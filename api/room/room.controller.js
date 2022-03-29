@@ -5,9 +5,13 @@ const logger = require('../../service/logger.service')
 
 async function getRooms(req,res){
     try {
-        var queryParams = req.query;
-        const rooms = await roomService.query(queryParams)
-        res.json(rooms)
+        var filterBy = {
+            destination: req.query?.destination ||''
+        }
+        console.log('get rooms inline 11 :>>',filterBy);
+        const rooms = await roomService.query(filterBy)
+        console.log('success inline 12 room controler');
+        res.json(rooms.slice(0,20))
     } catch (err) {
         logger.error('Failed to get rooms', err)
         res.status(500).send({ err: 'Failed to get rooms' })
@@ -30,7 +34,6 @@ async function getRoomById(req, res){
 module.exports = {
     getRooms,
     getRoomById,
-    // getRoomById,
     // addRoom,
     // updateRoom,
     // removeRoom
