@@ -54,8 +54,15 @@ function _buildCriteria(filterBy) {
                 'address.city': txtCriteria
             }
         ];
-        console.log('_buildCriteria inline 48 criteria :>> ', criteria);
     }
+    if (filterBy.capacity) {
+        criteria.capacity = { $gte: filterBy.capacity };
+    }
+    if (filterBy.pets) {
+        criteria.houseRules = { $regex: 'pets', $options: 'i' };
+    }
+
+    console.log('_buildCriteria inline 48 criteria :>> ', criteria);
     return criteria;
 }
 
