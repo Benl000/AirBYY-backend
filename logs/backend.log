@@ -667,6 +667,175 @@
 29.3.2022, 16:15:59 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 16:16:28 - INFO - Req!!!
 29.3.2022, 16:16:29 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+<<<<<<< HEAD
+3/29/2022, 4:47:56 PM - INFO - Server is running on port: 3030
+3/29/2022, 4:48:28 PM - INFO - Req!!!
+3/29/2022, 4:48:28 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 4:48:35 PM - INFO - Req!!!
+3/29/2022, 4:48:35 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 4:48:43 PM - INFO - Req!!!
+3/29/2022, 4:48:43 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 5:30:50 PM - INFO - Req!!!
+3/29/2022, 5:30:50 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+3/29/2022, 5:36:10 PM - INFO - Req!!!
+3/29/2022, 5:36:10 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 5:36:15 PM - INFO - Req!!!
+3/29/2022, 5:36:15 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 5:37:01 PM - INFO - Req!!!
+3/29/2022, 5:37:01 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 5:37:15 PM - INFO - Req!!!
+3/29/2022, 5:37:15 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:37:32 PM - INFO - Req!!!
+3/29/2022, 5:37:32 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:37:34 PM - INFO - Req!!!
+3/29/2022, 5:37:34 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:37:34 PM - INFO - Req!!!
+3/29/2022, 5:37:34 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:37:39 PM - INFO - Req!!!
+3/29/2022, 5:37:39 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:37:44 PM - INFO - Req!!!
+3/29/2022, 5:37:44 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 5:38:12 PM - INFO - Req!!!
+3/29/2022, 5:38:12 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 5:40:19 PM - INFO - Req!!!
+3/29/2022, 5:40:19 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+3/29/2022, 5:54:50 PM - INFO - Req!!!
+3/29/2022, 5:54:50 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 5:57:47 PM - INFO - Req!!!
+3/29/2022, 5:57:47 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 6:00:54 PM - INFO - Req!!!
+3/29/2022, 6:00:54 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 6:01:59 PM - INFO - Req!!!
+3/29/2022, 6:01:59 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 6:03:42 PM - INFO - Req!!!
+3/29/2022, 6:03:42 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:14:01 PM - INFO - Req!!!
+3/29/2022, 6:14:01 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 6:14:49 PM - INFO - Req!!!
+3/29/2022, 6:14:49 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:18:44 PM - INFO - Req!!!
+3/29/2022, 6:18:44 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:31:22 PM - INFO - Req!!!
+3/29/2022, 6:31:22 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:31:47 PM - INFO - Req!!!
+3/29/2022, 6:31:47 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:31:51 PM - INFO - Req!!!
+3/29/2022, 6:31:51 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 6:33:03 PM - INFO - Req!!!
+3/29/2022, 6:33:03 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 6:55:12 PM - INFO - Req!!!
+3/29/2022, 6:55:12 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:05:44 PM - INFO - Req!!!
+3/29/2022, 7:05:44 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 7:05:49 PM - INFO - Req!!!
+3/29/2022, 7:05:49 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:06:17 PM - INFO - Req!!!
+3/29/2022, 7:06:17 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:36:23 PM - INFO - Req!!!
+3/29/2022, 7:36:23 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 7:36:32 PM - INFO - Req!!!
+3/29/2022, 7:36:32 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 7:36:53 PM - INFO - Req!!!
+3/29/2022, 7:36:53 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 7:53:36 PM - INFO - Req!!!
+3/29/2022, 7:53:36 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:53:44 PM - INFO - Req!!!
+3/29/2022, 7:53:44 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:53:47 PM - INFO - Req!!!
+3/29/2022, 7:53:47 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:53:50 PM - INFO - Req!!!
+3/29/2022, 7:53:50 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:53:52 PM - INFO - Req!!!
+3/29/2022, 7:53:52 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:53:55 PM - INFO - Req!!!
+3/29/2022, 7:53:55 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:54:13 PM - INFO - Req!!!
+3/29/2022, 7:54:13 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:54:17 PM - INFO - Req!!!
+3/29/2022, 7:54:17 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 7:54:19 PM - INFO - Req!!!
+3/29/2022, 7:54:19 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 7:54:24 PM - INFO - Req!!!
+3/29/2022, 7:54:24 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 7:55:38 PM - INFO - Req!!!
+3/29/2022, 7:55:38 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 7:55:43 PM - INFO - Req!!!
+3/29/2022, 7:55:43 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 7:57:37 PM - INFO - Req!!!
+3/29/2022, 7:57:37 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 8:12:15 PM - INFO - Req!!!
+3/29/2022, 8:12:15 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/29/2022, 8:14:25 PM - INFO - Req!!!
+3/29/2022, 8:14:25 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:14:33 PM - INFO - Req!!!
+3/29/2022, 8:14:33 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:28:25 PM - INFO - Req!!!
+3/29/2022, 8:28:25 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:42:12 PM - INFO - Req!!!
+3/29/2022, 8:42:12 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:42:17 PM - INFO - Req!!!
+3/29/2022, 8:42:17 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:42:21 PM - INFO - Req!!!
+3/29/2022, 8:42:21 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:42:25 PM - INFO - Req!!!
+3/29/2022, 8:42:25 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:46:35 PM - INFO - Req!!!
+3/29/2022, 8:46:35 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:47:21 PM - INFO - Req!!!
+3/29/2022, 8:47:21 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:47:59 PM - INFO - Req!!!
+3/29/2022, 8:47:59 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:53:02 PM - INFO - Req!!!
+3/29/2022, 8:53:02 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:53:19 PM - INFO - Req!!!
+3/29/2022, 8:53:19 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+3/29/2022, 8:53:22 PM - INFO - Req!!!
+3/29/2022, 8:53:22 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 8:53:54 PM - INFO - Req!!!
+3/29/2022, 8:53:54 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/29/2022, 8:54:22 PM - INFO - Req!!!
+3/29/2022, 8:54:22 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:00:45 PM - INFO - Req!!!
+3/29/2022, 9:00:45 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:03:30 PM - INFO - Req!!!
+3/29/2022, 9:03:30 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:04:07 PM - INFO - Req!!!
+3/29/2022, 9:04:07 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:05:28 PM - INFO - Req!!!
+3/29/2022, 9:05:28 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:05:40 PM - INFO - Req!!!
+3/29/2022, 9:05:40 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:08:45 PM - INFO - Req!!!
+3/29/2022, 9:08:45 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+3/29/2022, 9:09:19 PM - INFO - Req!!!
+3/29/2022, 9:09:19 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:26:33 PM - INFO - Req!!!
+3/29/2022, 9:26:33 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:26:33 PM - INFO - Req!!!
+3/29/2022, 9:26:33 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:26:50 PM - INFO - Req!!!
+3/29/2022, 9:26:50 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:26:51 PM - INFO - Req!!!
+3/29/2022, 9:26:51 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:26:59 PM - INFO - Req!!!
+3/29/2022, 9:26:59 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:27:12 PM - INFO - Req!!!
+3/29/2022, 9:27:12 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+3/29/2022, 9:31:46 PM - INFO - Server is running on port: 3030
+3/29/2022, 9:32:14 PM - INFO - Server is running on port: 3030
+3/29/2022, 9:32:35 PM - INFO - Req!!!
+3/29/2022, 9:32:35 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:33:30 PM - INFO - Req!!!
+3/29/2022, 9:33:30 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:36:38 PM - INFO - Server is running on port: 3030
+3/29/2022, 9:36:40 PM - INFO - Req!!!
+3/29/2022, 9:36:40 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:36:59 PM - INFO - Req!!!
+3/29/2022, 9:36:59 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:37:13 PM - INFO - Req!!!
+3/29/2022, 9:37:13 PM - DEBUG - criteria after filter :>> | {}
+3/29/2022, 9:45:39 PM - INFO - Server is running on port: 3030
+=======
 29.3.2022, 16:40:25 - INFO - Req!!!
 29.3.2022, 16:40:25 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 16:40:35 - INFO - Req!!!
@@ -759,6 +928,7 @@
 29.3.2022, 20:42:44 - INFO - Req!!!
 29.3.2022, 20:42:44 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 20:44:40 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
 29.3.2022, 20:50:12 - INFO - Server is running on port: 3030
 29.3.2022, 20:50:23 - INFO - Req!!!
 29.3.2022, 20:50:23 - DEBUG - criteria after filter :>> | {}
@@ -778,3 +948,17 @@
 29.3.2022, 21:06:13 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 22:10:21 - INFO - Req!!!
 29.3.2022, 22:10:21 - DEBUG - criteria after filter :>> | {}
+=======
+<<<<<<< HEAD
+29.3.2022, 20:45:33 - INFO - Req!!!
+29.3.2022, 20:45:33 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:49:00 - INFO - Server is running on port: 3030
+29.3.2022, 20:50:14 - INFO - Req!!!
+29.3.2022, 20:50:14 - DEBUG - criteria after filter :>> | {}
+=======
+>>>>>>> 47df4400bee65099385be2e6038a1c61997b96ec
+3/29/2022, 9:49:25 PM - INFO - Server is running on port: 3030
+>>>>>>> 7726d784805c86321e34558be758dc3260dd822c
+29.3.2022, 21:52:35 - INFO - Server is running on port: 3030
+>>>>>>> 3618042b4ed7ae2363f1527cd846313995b4a890
+29.3.2022, 22:11:29 - INFO - Server is running on port: 3030
