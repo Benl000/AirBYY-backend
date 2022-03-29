@@ -756,3 +756,6 @@
 29.3.2022, 19:11:36 - INFO - Server is running on port: 3030
 29.3.2022, 19:11:40 - INFO - Req!!!
 29.3.2022, 19:11:40 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"houseRules":{"$regex":"pets","$options":"i"}}
+29.3.2022, 20:42:44 - INFO - Req!!!
+29.3.2022, 20:42:44 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:44:40 - INFO - Server is running on port: 3030

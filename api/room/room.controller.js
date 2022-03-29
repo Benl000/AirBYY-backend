@@ -13,7 +13,7 @@ async function getRooms(req,res){
         console.log('get rooms inline 13 :>>',filterBy);
         const rooms = await roomService.query(filterBy)
         console.log('success inline 12 room controler');
-        res.json(rooms.slice(0,20))
+        res.json(rooms.slice(0,10))
     } catch (err) {
         logger.error('Failed to get rooms', err)
         res.status(500).send({ err: 'Failed to get rooms' })
