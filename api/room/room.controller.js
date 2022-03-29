@@ -6,9 +6,11 @@ const logger = require('../../service/logger.service')
 async function getRooms(req,res){
     try {
         var filterBy = {
-            destination: req.query?.destination ||''
+            destination: req.query?.destination ||'',
+            capacity: (+req.query?.adults || 0)+(+req.query?.children||0)+(+req.query?.infants || 0),
+            pets: (+req.query?.pets||0)
         }
-        console.log('get rooms inline 11 :>>',filterBy);
+        console.log('get rooms inline 13 :>>',filterBy);
         const rooms = await roomService.query(filterBy)
         console.log('success inline 12 room controler');
         res.json(rooms.slice(0,20))

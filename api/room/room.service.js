@@ -32,19 +32,9 @@ async function getById(roomId) {
 
 function _buildCriteria(filterBy) {
     var criteria = {}
+    console.log(filterBy);
 
     if (filterBy.destination) {
-        console.log(filterBy.destination);
-
-        // criteria.address = {
-        //     'address.country': { $regex: filterBy.destination, $options: 'i' },
-        // };
-
-        //    criteria = {'address.country':{$regex: filterBy.destination, $options: 'i'}} 
-
-        // criteria.address = {country }
-        // criteria.address = {country : {$regex: filterBy.destination, $options: 'i'}}
-        // criteria.address = { $regex: filterBy.destination, $options: 'i'}
         const txtCriteria = { $regex: filterBy.destination, $options: 'i' }
         criteria.$or = [
             {
@@ -53,9 +43,16 @@ function _buildCriteria(filterBy) {
             {
                 'address.city': txtCriteria
             }
-        ]
+            ]
+        }
+        if(filterBy.capacity) {
+            criteria.capacity = {$gte: filterBy.capacity}
+        }
+        if(filterBy.pets) {
+            criteria.houseRules = {$regex: 'pets',$options: 'i'}
+        }
+
         console.log('_buildCriteria inline 48 criteria :>> ', criteria);
-    }
     return criteria
 }
 

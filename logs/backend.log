@@ -667,3 +667,92 @@
 29.3.2022, 16:15:59 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 16:16:28 - INFO - Req!!!
 29.3.2022, 16:16:29 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+29.3.2022, 16:40:25 - INFO - Req!!!
+29.3.2022, 16:40:25 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 16:40:35 - INFO - Req!!!
+29.3.2022, 16:40:35 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+29.3.2022, 16:42:38 - INFO - Req!!!
+29.3.2022, 16:42:38 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 16:43:40 - INFO - Req!!!
+29.3.2022, 16:43:40 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 17:42:23 - INFO - Server is running on port: 3030
+29.3.2022, 17:42:53 - INFO - Req!!!
+29.3.2022, 17:42:53 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:45:40 - INFO - Req!!!
+29.3.2022, 17:45:40 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:46:05 - INFO - Server is running on port: 3030
+29.3.2022, 17:46:08 - INFO - Req!!!
+29.3.2022, 17:46:08 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:46:35 - INFO - Req!!!
+29.3.2022, 17:46:35 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:46:53 - INFO - Server is running on port: 3030
+29.3.2022, 17:47:03 - INFO - Req!!!
+29.3.2022, 17:47:03 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:47:35 - INFO - Server is running on port: 3030
+29.3.2022, 17:47:37 - INFO - Req!!!
+29.3.2022, 17:47:37 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:47:58 - INFO - Server is running on port: 3030
+29.3.2022, 17:48:02 - INFO - Req!!!
+29.3.2022, 17:48:02 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:48:34 - INFO - Server is running on port: 3030
+29.3.2022, 17:48:47 - INFO - Server is running on port: 3030
+29.3.2022, 17:48:54 - INFO - Req!!!
+29.3.2022, 17:48:54 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:49:41 - INFO - Server is running on port: 3030
+29.3.2022, 17:49:43 - INFO - Req!!!
+29.3.2022, 17:49:43 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:54:24 - INFO - Server is running on port: 3030
+29.3.2022, 17:54:40 - INFO - Req!!!
+29.3.2022, 17:54:40 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:55:12 - INFO - Server is running on port: 3030
+29.3.2022, 17:55:14 - INFO - Req!!!
+29.3.2022, 17:55:14 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:57:35 - INFO - Server is running on port: 3030
+29.3.2022, 17:57:37 - INFO - Req!!!
+29.3.2022, 17:57:37 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:58:12 - INFO - Server is running on port: 3030
+29.3.2022, 17:58:15 - INFO - Req!!!
+29.3.2022, 17:58:15 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:59:03 - INFO - Server is running on port: 3030
+29.3.2022, 17:59:07 - INFO - Req!!!
+29.3.2022, 17:59:07 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:59:11 - INFO - Req!!!
+29.3.2022, 17:59:11 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:59:40 - INFO - Server is running on port: 3030
+29.3.2022, 17:59:43 - INFO - Req!!!
+29.3.2022, 17:59:43 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 17:59:55 - INFO - Req!!!
+29.3.2022, 17:59:55 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:00:14 - INFO - Server is running on port: 3030
+29.3.2022, 18:00:17 - INFO - Req!!!
+29.3.2022, 18:00:17 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:02:04 - INFO - Req!!!
+29.3.2022, 18:02:04 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 18:06:35 - INFO - Server is running on port: 3030
+29.3.2022, 18:06:45 - INFO - Req!!!
+29.3.2022, 18:06:45 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:06:51 - INFO - Req!!!
+29.3.2022, 18:06:51 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:07:13 - INFO - Req!!!
+29.3.2022, 18:07:13 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:08:02 - INFO - Req!!!
+29.3.2022, 18:08:02 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 18:14:17 - INFO - Server is running on port: 3030
+29.3.2022, 18:17:29 - INFO - Server is running on port: 3030
+29.3.2022, 18:23:54 - INFO - Server is running on port: 3030
+29.3.2022, 18:24:04 - INFO - Req!!!
+29.3.2022, 18:24:04 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"capacity":{"$gte":12}}
+29.3.2022, 19:00:34 - INFO - Server is running on port: 3030
+29.3.2022, 19:00:38 - INFO - Req!!!
+29.3.2022, 19:00:38 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"capacity":{"$gte":12}}
+29.3.2022, 19:01:05 - INFO - Server is running on port: 3030
+29.3.2022, 19:01:07 - INFO - Req!!!
+29.3.2022, 19:01:07 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"capacity":{"$gte":12}}
+29.3.2022, 19:10:21 - INFO - Server is running on port: 3030
+29.3.2022, 19:10:58 - INFO - Req!!!
+29.3.2022, 19:10:58 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"houseRules":{"$regex":2,"$options":"i"}}
+29.3.2022, 19:10:59 - ERROR - cannot find rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7080555347563249666","signature":{"hash":"sPwpDb3uxXW1WfiEJb/bYjl+Jes=","keyId":"7040079120499212295"}},"operationTime":"7080555347563249666","name":"MongoError"}
+29.3.2022, 19:10:59 - ERROR - Failed to get rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7080555347563249666","signature":{"hash":"sPwpDb3uxXW1WfiEJb/bYjl+Jes=","keyId":"7040079120499212295"}},"operationTime":"7080555347563249666","name":"MongoError"}
+29.3.2022, 19:11:36 - INFO - Server is running on port: 3030
+29.3.2022, 19:11:40 - INFO - Req!!!
+29.3.2022, 19:11:40 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}],"houseRules":{"$regex":"pets","$options":"i"}}
