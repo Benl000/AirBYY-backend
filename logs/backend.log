@@ -759,3 +759,22 @@
 29.3.2022, 20:42:44 - INFO - Req!!!
 29.3.2022, 20:42:44 - DEBUG - criteria after filter :>> | {}
 29.3.2022, 20:44:40 - INFO - Server is running on port: 3030
+29.3.2022, 20:50:12 - INFO - Server is running on port: 3030
+29.3.2022, 20:50:23 - INFO - Req!!!
+29.3.2022, 20:50:23 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:50:46 - INFO - Req!!!
+29.3.2022, 20:50:46 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:50:50 - INFO - Req!!!
+29.3.2022, 20:50:50 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:53:03 - INFO - Req!!!
+29.3.2022, 20:53:03 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+29.3.2022, 20:53:22 - INFO - Req!!!
+29.3.2022, 20:53:22 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 20:58:19 - INFO - Req!!!
+29.3.2022, 20:58:19 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+29.3.2022, 21:03:05 - INFO - Req!!!
+29.3.2022, 21:03:05 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 21:06:13 - INFO - Req!!!
+29.3.2022, 21:06:13 - DEBUG - criteria after filter :>> | {}
+29.3.2022, 22:10:21 - INFO - Req!!!
+29.3.2022, 22:10:21 - DEBUG - criteria after filter :>> | {}
