@@ -29,9 +29,14 @@ try {
 }
 
 async function addOrder(req,res) {
-    console.log('addedOrder order controller line31 :>>' , req.body);
     try {
-        const addedOrder = await orderService.add(req.body)
+        const user = req.session.user
+        const orderToSave = req.body
+        orderToSave.userId = user._id 
+        console.log('addedOrder order controller line36 :>>' , orderToSave);
+        const addedOrder = await orderService.add(orderToSave)
+
+          
         res.json(addedOrder)
     } catch (err) {
         logger.error('Failed to add order', err);

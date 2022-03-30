@@ -73,7 +73,7 @@ async function update(user) {
             username: user.username,
             fullname: user.fullname,
             id:user.id,
-            imgUrl: user.imgUrl 
+             imgUrl: user.imgUrl 
             // score: user.score
         }
         const collection = await dbService.getCollection('user')
@@ -92,7 +92,8 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            score: user.score || 0
+            imgUrl: user.imgUrl,
+            id: user.id,
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

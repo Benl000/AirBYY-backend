@@ -30,8 +30,8 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
   }
 
-    // const authRoutes = require('./api/auth/auth.routes')
-    // const authRoutes = require('./api/auth/auth.routes')
+    
+    const authRoutes = require('./api/auth/auth.routes')
     const userRoutes = require('./api/user/user.routes')
     const roomRoutes = require('./api/room/room.routes')
     const orderRoutes = require('./api/order/order.routes')
@@ -39,7 +39,7 @@ if (process.env.NODE_ENV === 'production') {
 
     // routes
 
-    // app.use('/api/auth',authRoutes)
+    app.use('/api/auth',authRoutes)
     app.use('/api/order',orderRoutes)
     app.use('/api/user',userRoutes)
     app.use('/api/room',roomRoutes)
