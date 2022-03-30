@@ -38,7 +38,7 @@ async function addOrder(req,res) {
         const addedOrder = await orderService.add(orderToSave)
 
           
-        res.json(addedOrder)
+        res.send(addedOrder)
     } catch (err) {
         logger.error('Failed to add order', err);
         // res.status(500).send({ err: 'Failed to add order' });
