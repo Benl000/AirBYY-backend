@@ -30,9 +30,10 @@ try {
 
 async function addOrder(req,res) {
     try {
-        const user = req.session.user
+        // const user = req.session.user
         const orderToSave = req.body
-        orderToSave.userId = user._id 
+        console.log('addOrder line 35 :>>', orderToSave);
+        // orderToSave.userId = user._id 
         console.log('addedOrder order controller line36 :>>' , orderToSave);
         const addedOrder = await orderService.add(orderToSave)
 

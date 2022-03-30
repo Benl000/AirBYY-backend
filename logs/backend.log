@@ -1102,3 +1102,50 @@
 30.3.2022, 13:36:38 - INFO - Server is running on port: 3030
 30.3.2022, 13:38:38 - INFO - Server is running on port: 3030
 30.3.2022, 13:38:45 - DEBUG - auth.service - login with username: sofi
+30.3.2022, 13:45:38 - INFO - Req!!!
+30.3.2022, 13:45:38 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 13:55:11 - INFO - Server is running on port: 3030
+30.3.2022, 13:55:27 - INFO - Req!!!
+30.3.2022, 13:55:27 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 13:55:29 - INFO - Req!!!
+30.3.2022, 13:55:29 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 13:55:31 - INFO - Req!!!
+30.3.2022, 13:55:31 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 13:55:36 - INFO - Req!!!
+30.3.2022, 13:55:36 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+30.3.2022, 14:00:48 - INFO - Server is running on port: 3030
+30.3.2022, 14:04:09 - INFO - Req!!!
+30.3.2022, 14:04:09 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:04:34 - INFO - Req!!!
+30.3.2022, 14:04:34 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:07:10 - INFO - Server is running on port: 3030
+30.3.2022, 14:07:33 - INFO - Req!!!
+30.3.2022, 14:07:33 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:10:15 - INFO - Req!!!
+30.3.2022, 14:10:15 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:10:32 - INFO - Req!!!
+30.3.2022, 14:10:32 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:10:49 - INFO - Req!!!
+30.3.2022, 14:10:49 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:10:54 - INFO - Req!!!
+30.3.2022, 14:10:54 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:11:11 - INFO - Req!!!
+30.3.2022, 14:11:11 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:12:58 - INFO - Req!!!
+30.3.2022, 14:12:58 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:19:33 - INFO - Req!!!
+30.3.2022, 14:19:33 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:20:30 - INFO - Server is running on port: 3030
+30.3.2022, 14:23:13 - INFO - Req!!!
+30.3.2022, 14:23:13 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:28:42 - INFO - Req!!!
+30.3.2022, 14:28:42 - DEBUG - criteria after filter :>> | {}
+30.3.2022, 14:36:23 - INFO - Server is running on port: 3030
+30.3.2022, 14:36:35 - ERROR - Failed to add order | {}
+30.3.2022, 14:36:41 - ERROR - Failed to add order | {}
+30.3.2022, 14:37:32 - ERROR - Failed to add order | {}
+30.3.2022, 14:37:38 - ERROR - Failed to add order | {}
+30.3.2022, 14:37:51 - INFO - Server is running on port: 3030
+30.3.2022, 14:38:27 - ERROR - Failed to add order | {}
+30.3.2022, 14:38:47 - INFO - Server is running on port: 3030
+30.3.2022, 14:39:21 - INFO - Server is running on port: 3030
