@@ -1157,6 +1157,7 @@
 30.3.2022, 14:52:49 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
 30.3.2022, 14:53:23 - INFO - Req!!!
 30.3.2022, 14:53:23 - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+<<<<<<< HEAD
 30.3.2022, 15:10:42 - INFO - Server is running on port: 3030
 30.3.2022, 18:55:18 - INFO - Req!!!
 30.3.2022, 18:55:18 - DEBUG - criteria after filter :>> | {}
@@ -1546,3 +1547,69 @@
 1.4.2022, 3:40:06 - INFO - Req!!!
 1.4.2022, 3:40:06 - DEBUG - criteria after filter :>> | {"price":{"$gte":550,"$lte":580}}
 1.4.2022, 3:41:24 - INFO - Server is running on port: 3030
+=======
+3/30/2022, 2:58:20 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:06:39 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:17:35 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:17:55 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:20:14 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:21:38 PM - INFO - Server is running on port: 3030
+3/30/2022, 3:27:29 PM - INFO - Server is running on port: 3030
+3/30/2022, 4:41:30 PM - INFO - Req!!!
+3/30/2022, 4:41:30 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 4:56:18 PM - INFO - Req!!!
+3/30/2022, 4:56:18 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 4:57:22 PM - INFO - Req!!!
+3/30/2022, 4:57:22 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 4:57:26 PM - INFO - Req!!!
+3/30/2022, 4:57:26 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/30/2022, 5:00:16 PM - INFO - Req!!!
+3/30/2022, 5:00:16 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:07:53 PM - INFO - Req!!!
+3/30/2022, 5:07:53 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:07:57 PM - INFO - Req!!!
+3/30/2022, 5:07:57 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/30/2022, 5:09:01 PM - INFO - Req!!!
+3/30/2022, 5:09:01 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"United States","$options":"i"}},{"address.city":{"$regex":"United States","$options":"i"}}]}
+3/30/2022, 5:24:09 PM - INFO - Req!!!
+3/30/2022, 5:24:09 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:25:36 PM - INFO - Req!!!
+3/30/2022, 5:25:36 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:54:08 PM - INFO - Req!!!
+3/30/2022, 5:54:08 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:54:10 PM - INFO - Req!!!
+3/30/2022, 5:54:10 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:54:12 PM - INFO - Req!!!
+3/30/2022, 5:54:12 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:54:23 PM - INFO - Req!!!
+3/30/2022, 5:54:23 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:54:32 PM - INFO - Req!!!
+3/30/2022, 5:54:32 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:55:14 PM - INFO - Req!!!
+3/30/2022, 5:55:14 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:55:37 PM - INFO - Req!!!
+3/30/2022, 5:55:37 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:55:54 PM - INFO - Req!!!
+3/30/2022, 5:55:54 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:56:17 PM - INFO - Req!!!
+3/30/2022, 5:56:17 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:56:48 PM - INFO - Req!!!
+3/30/2022, 5:56:48 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 5:58:33 PM - INFO - Req!!!
+3/30/2022, 5:58:33 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 5:58:38 PM - INFO - Req!!!
+3/30/2022, 5:58:38 PM - DEBUG - criteria after filter :>> | {}
+3/30/2022, 7:07:14 PM - INFO - Req!!!
+3/30/2022, 7:07:14 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
+3/30/2022, 7:07:37 PM - INFO - Req!!!
+3/30/2022, 7:07:37 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+>>>>>>> 68f87e3ea0ca6a85d4387c5e353cfb0a62287579
+1.4.2022, 4:51:13 - INFO - Server is running on port: 3030
+1.4.2022, 4:52:34 - INFO - Req!!!
+1.4.2022, 4:52:34 - DEBUG - criteria after filter :>> | {"roomType":{"$in":"{\"entirePlace\":false,\"privateRoom\":false,\"hotelRoom\":false,\"sharedRoom\":false}"},"price":{"$gte":0,"$lte":10000}}
+1.4.2022, 4:52:34 - ERROR - cannot find rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7081447395090759684","signature":{"hash":"LrA0My7gbdBvKN27/6YFgSiTQGU=","keyId":"7040079120499212295"}},"operationTime":"7081447395090759684","name":"MongoError"}
+1.4.2022, 4:52:34 - ERROR - Failed to get rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7081447395090759684","signature":{"hash":"LrA0My7gbdBvKN27/6YFgSiTQGU=","keyId":"7040079120499212295"}},"operationTime":"7081447395090759684","name":"MongoError"}
+1.4.2022, 4:52:58 - INFO - Req!!!
+1.4.2022, 4:52:58 - DEBUG - criteria after filter :>> | {"roomType":{"$in":"{\"entirePlace\":false,\"privateRoom\":false,\"hotelRoom\":false,\"sharedRoom\":false}"},"price":{"$gte":0,"$lte":10000}}
+1.4.2022, 4:52:59 - ERROR - cannot find rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7081447498169974789","signature":{"hash":"ExtLNHucfQV80FgEXmRFuLh+PBg=","keyId":"7040079120499212295"}},"operationTime":"7081447498169974789","name":"MongoError"}
+1.4.2022, 4:52:59 - ERROR - Failed to get rooms | {"ok":0,"code":2,"codeName":"BadValue","$clusterTime":{"clusterTime":"7081447498169974789","signature":{"hash":"ExtLNHucfQV80FgEXmRFuLh+PBg=","keyId":"7040079120499212295"}},"operationTime":"7081447498169974789","name":"MongoError"}

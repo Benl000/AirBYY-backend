@@ -1,7 +1,7 @@
 const express = require('express')
 const { requireAuth, requireAdmin } = require('../../middlewares/requireAuth.middleware')
 const { log } = require('../../middlewares/logger.middleware')
-const {getOrders,getOrderById,addOrder } = require('./order.controller')
+const { getOrders,getOrderById,addOrder } = require('./order.controller')
 const router = express.Router()
 
 
@@ -10,13 +10,13 @@ const router = express.Router()
 
 router.get('/',log,requireAuth, requireAdmin,getOrders)
 router.get('/:id',requireAuth,getOrderById)
-// router.post('/', requireAuth,addOrder)
+router.post('/', requireAuth,addOrder)
 
 
 
 // router.get('/' , log, getOrders)
 // router.get('/:id',getOrderById)
-router.post('/',addOrder)
+// router.post('/',addOrder)
 
 // // TODO
 // router.put('/',updateOrder)
