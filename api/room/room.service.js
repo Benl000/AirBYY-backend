@@ -61,6 +61,10 @@ function _buildCriteria(filterBy) {
     if (filterBy.pets) {
         criteria.houseRules = { $regex: 'pets', $options: 'i' };
     }
+    if(filterBy.roomType.length) {
+        criteria.roomType = {$in:filterBy.roomType}
+    }
+    criteria.price = {$gte:filterBy.minPrice,$lte:filterBy.maxPrice}
 
     console.log('_buildCriteria inline 48 criteria :>> ', criteria);
     return criteria;

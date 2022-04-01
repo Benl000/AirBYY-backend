@@ -5,8 +5,9 @@ const logger = require('../../service/logger.service');
 // get orders list for admin only
 
 async function getOrders(req,res) {
+    const userId = req.session.user._id
     try {
-        const orders = await orderService.query()
+        const orders = await orderService.query(userId)
         res.json(orders)
     } catch (err) {
         logger.error('Failed to get orders', err);

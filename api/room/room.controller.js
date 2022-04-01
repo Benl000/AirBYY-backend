@@ -6,11 +6,14 @@ const logger = require('../../service/logger.service');
 async function getRooms(req, res) {
     try {
         var filterBy = {
-            destination: req.query?.destination || ''
+            destination: req.query?.destination || '',
+            roomType: req.query?.roomType || '',
+            minPrice: +req.query?.minPrice || 0,
+            maxPrice: +req.query?.maxPrice || 10000,
         };
         console.log('get rooms inline 11 :>>', filterBy);
         const rooms = await roomService.query(filterBy);
-        console.log('success inline 12 room controler');
+        // console.log('success inline 12 room controler');
         res.json(rooms);
     } catch (err) {
         logger.error('Failed to get rooms', err);

@@ -2,10 +2,20 @@ const dbService = require('../../service/db.service')
 const logger = require('../../service/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
-async function query() {
+async function query(userId = {}) {
     try {
-        const collection = await dbService.getCollection('order');
-        const orders = await collection.find().toArray()
+        const collection = await dbService.getCollection('room');
+        // const orders = await collection.find().toArray()
+        const hostOrders = await collection
+        .aggregate([
+            {$match: {"host._id": ObjectId(userId)}},
+            {
+                $lookup:{
+                    from:'order',
+                }
+            },
+        ])
+    
         return orders
     } catch (err) {
         logger.error('cannot find orders', err);
