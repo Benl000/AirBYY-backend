@@ -3,6 +3,7 @@ const logger = require('../../service/logger.service');
 const ObjectId = require('mongodb').ObjectId;
 
 async function query(filterBy) {
+    console.log('filterBy (func query inline 6 :>>', filterBy);
     logger.debug('criteria after filter :>>', filterBy);
     try {
         const criteria = _buildCriteria(filterBy);
@@ -31,7 +32,7 @@ async function getById(roomId) {
 function _buildCriteria(filterBy) {
     var criteria = {};
 
-    console.log('roomservice line37 :>>' , filterBy);
+    console.log('roomservice line37 :>>', filterBy);
     if (filterBy.destination) {
         const txtCriteria = { $regex: filterBy.destination, $options: 'i' };
         criteria.$or = [
@@ -49,15 +50,15 @@ function _buildCriteria(filterBy) {
     if (filterBy.pets) {
         criteria.houseRules = { $regex: 'pets', $options: 'i' };
     }
-    if(filterBy.roomType.length) {
-        criteria.roomType = {$in:filterBy.roomType}
+    if (filterBy.roomType.length) {
+        criteria.roomType = { $in: filterBy.roomType };
     }
-    if(filterBy.amenities.length) {
-        criteria.amenities = {$in:filterBy.amenities}
+    if (filterBy.amenities.length) {
+        criteria.amenities = { $in: filterBy.amenities };
     }
-    criteria.price = {$gte:filterBy.minPrice,$lte:filterBy.maxPrice}
+    criteria.price = { $gte: filterBy.minPrice, $lte: filterBy.maxPrice };
 
-    console.log('_buildCriteria inline 48 criteria :>> ', criteria);
+    console.log('_buildCriteria inline 61 criteria :>> ', JSON.stringify(criteria));
     return criteria;
 }
 
