@@ -5,7 +5,8 @@ var gIo = null
 function connectSockets(http, session) {
     gIo = require('socket.io')(http, {
         cors: {
-            origin: '*',
+            origin: ' http://localhost:3000/',
+            // origin: '*',
         }
     })
     console.log('socket service :>>>>>>>>>>>>>>>>>>>>')

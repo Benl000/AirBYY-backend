@@ -5,12 +5,15 @@ const logger = require('../../service/logger.service');
 
 async function getRooms(req, res) {
     let roomType = setRoomType(JSON.parse(req.query.roomType))
+    let priceRange = JSON.parse(req.query.price)
+    console.log('filter by room service line 8 :>>>' , req.query);
     try {
         var filterBy = {
             destination: req.query?.destination || '',
-            minPrice: +req.query?.minPrice || 0,
-            maxPrice: +req.query?.maxPrice || 10000,
+            minPrice: +priceRange.from || 0,
+            maxPrice: +priceRange.to || 10000,
             roomType,
+            amenities: req.query?.amenities || []
         };
         console.log('get rooms inline 11 :>>', filterBy);
         const rooms = await roomService.query(filterBy);

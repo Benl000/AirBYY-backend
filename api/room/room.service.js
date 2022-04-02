@@ -6,8 +6,6 @@ async function query(filterBy) {
     logger.debug('criteria after filter :>>', filterBy);
     try {
         const criteria = _buildCriteria(filterBy);
-        // const criteria = {}
-        // todo criteria function
         const collection = await dbService.getCollection('room');
         var rooms = await collection.find(criteria).limit(20).toArray();
         // console.log('query inline 12 rooms :>> ' ,rooms);
@@ -53,6 +51,9 @@ function _buildCriteria(filterBy) {
     }
     if(filterBy.roomType.length) {
         criteria.roomType = {$in:filterBy.roomType}
+    }
+    if(filterBy.amenities.length) {
+        criteria.amenities = {$in:filterBy.amenities}
     }
     criteria.price = {$gte:filterBy.minPrice,$lte:filterBy.maxPrice}
 
