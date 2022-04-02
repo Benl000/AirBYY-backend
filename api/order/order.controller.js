@@ -2,7 +2,7 @@ const orderService = require('./order.service.js');
 const logger = require('../../service/logger.service');
 
 
-// get orders list for admin only
+// get orders list for host only
 
 async function getOrders(req, res) {
     try {
