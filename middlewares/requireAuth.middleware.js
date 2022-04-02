@@ -1,22 +1,22 @@
-const logger = require('../service/logger.service')
+const logger = require('../service/logger.service');
 
 async function requireAuth(req, res, next) {
   if (!req.session || !req.session.user) {
-    res.status(401).end('Unauthorized!')
-    return
+    res.status(401).end('Unauthorized!');
+    return;
   }
-  next()
+  next();
 }
 
 async function requireAdmin(req, res, next) {
-  const user = req.session.user
+  const user = req.session.user;
   console.log(user);
   if (!user.isAdmin) {
-    logger.warn(user.fullname + ' Attempt to perform admin action')
-    res.status(403).end('Unauthorized Enough..')
-    return
+    logger.warn(user.fullname + ' Attempt to perform admin action');
+    res.status(403).end('Unauthorized Enough..');
+    return;
   }
-  next()
+  next();
 }
 
 
@@ -25,4 +25,4 @@ async function requireAdmin(req, res, next) {
 module.exports = {
   requireAuth,
   requireAdmin
-}
+};
