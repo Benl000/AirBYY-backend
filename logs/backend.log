@@ -1212,3 +1212,685 @@
 3/30/2022, 7:07:14 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Canada","$options":"i"}},{"address.city":{"$regex":"Canada","$options":"i"}}]}
 3/30/2022, 7:07:37 PM - INFO - Req!!!
 3/30/2022, 7:07:37 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Portugal","$options":"i"}},{"address.city":{"$regex":"Portugal","$options":"i"}}]}
+4/2/2022, 12:40:31 AM - INFO - Req!!!
+4/2/2022, 12:40:31 AM - INFO - Req from: yarden
+4/2/2022, 12:40:31 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 12:44:07 AM - INFO - Req!!!
+4/2/2022, 12:44:07 AM - INFO - Req from: yarden
+4/2/2022, 12:44:07 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 12:45:38 AM - INFO - Server is running on port: 3030
+4/2/2022, 12:48:48 AM - INFO - Req!!!
+4/2/2022, 12:48:48 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 12:48:52 AM - INFO - Req!!!
+4/2/2022, 12:48:52 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 12:52:16 AM - DEBUG - auth.service - login with username: gasehskn
+4/2/2022, 12:52:16 AM - ERROR - Failed to Login Invalid username or password
+4/2/2022, 12:52:17 AM - INFO - Req!!!
+4/2/2022, 12:52:17 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 12:54:20 AM - DEBUG - auth.service - login with username: dfghdfg
+4/2/2022, 12:54:20 AM - ERROR - Failed to Login Invalid username or password
+4/2/2022, 12:54:21 AM - INFO - Req!!!
+4/2/2022, 12:54:21 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 12:57:04 AM - DEBUG - auth.service - login with username: yarden
+4/2/2022, 1:12:23 AM - INFO - Req!!!
+4/2/2022, 1:12:23 AM - INFO - Req from: yarden
+4/2/2022, 1:12:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:13:49 AM - INFO - Req!!!
+4/2/2022, 1:13:49 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:13:50 AM - INFO - Req!!!
+4/2/2022, 1:13:50 AM - INFO - Req from: yarden
+4/2/2022, 1:13:50 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:17:41 AM - INFO - Req!!!
+4/2/2022, 1:17:41 AM - INFO - Req from: yarden
+4/2/2022, 1:17:41 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:18:32 AM - INFO - Req!!!
+4/2/2022, 1:18:32 AM - INFO - Req from: yarden
+4/2/2022, 1:18:32 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:18:47 AM - INFO - Req!!!
+4/2/2022, 1:18:47 AM - INFO - Req from: yarden
+4/2/2022, 1:18:47 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:21:45 AM - INFO - Req!!!
+4/2/2022, 1:21:45 AM - INFO - Req from: yarden
+4/2/2022, 1:21:45 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:22:23 AM - INFO - Req!!!
+4/2/2022, 1:22:23 AM - INFO - Req from: yarden
+4/2/2022, 1:22:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:23:02 AM - INFO - Req!!!
+4/2/2022, 1:23:02 AM - INFO - Req from: yarden
+4/2/2022, 1:23:02 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:29:12 AM - INFO - Req!!!
+4/2/2022, 1:29:12 AM - INFO - Req from: yarden
+4/2/2022, 1:29:12 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:31:23 AM - INFO - Req!!!
+4/2/2022, 1:31:23 AM - INFO - Req from: yarden
+4/2/2022, 1:31:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:31:35 AM - INFO - Req!!!
+4/2/2022, 1:31:35 AM - INFO - Req from: yarden
+4/2/2022, 1:31:35 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:31:50 AM - INFO - Req!!!
+4/2/2022, 1:31:50 AM - INFO - Req from: yarden
+4/2/2022, 1:31:50 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:36:09 AM - INFO - Req!!!
+4/2/2022, 1:36:09 AM - INFO - Req from: yarden
+4/2/2022, 1:36:09 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:36:28 AM - INFO - Req!!!
+4/2/2022, 1:36:28 AM - INFO - Req from: yarden
+4/2/2022, 1:36:28 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:36:38 AM - INFO - Req!!!
+4/2/2022, 1:36:38 AM - INFO - Req from: yarden
+4/2/2022, 1:36:38 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:36:40 AM - INFO - Req!!!
+4/2/2022, 1:36:40 AM - INFO - Req from: yarden
+4/2/2022, 1:36:40 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 1:42:51 AM - INFO - Req!!!
+4/2/2022, 1:42:51 AM - INFO - Req from: yarden
+4/2/2022, 1:42:51 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:42:54 AM - INFO - Req!!!
+4/2/2022, 1:42:54 AM - INFO - Req from: yarden
+4/2/2022, 1:42:54 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:45:33 AM - INFO - Req!!!
+4/2/2022, 1:45:33 AM - INFO - Req from: yarden
+4/2/2022, 1:45:33 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:48:50 AM - INFO - Req!!!
+4/2/2022, 1:48:50 AM - INFO - Req from: yarden
+4/2/2022, 1:48:50 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:54:59 AM - INFO - Req!!!
+4/2/2022, 1:54:59 AM - INFO - Req from: yarden
+4/2/2022, 1:54:59 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:55:02 AM - INFO - Req!!!
+4/2/2022, 1:55:02 AM - INFO - Req from: yarden
+4/2/2022, 1:55:02 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 1:55:42 AM - INFO - Req!!!
+4/2/2022, 1:55:42 AM - INFO - Req from: yarden
+4/2/2022, 1:55:42 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:00:38 AM - INFO - Req!!!
+4/2/2022, 2:00:38 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:00:38 AM - INFO - Req!!!
+4/2/2022, 2:00:38 AM - INFO - Req from: yarden
+4/2/2022, 2:00:38 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:01:54 AM - INFO - Req!!!
+4/2/2022, 2:01:54 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:01:55 AM - INFO - Req!!!
+4/2/2022, 2:01:55 AM - INFO - Req from: yarden
+4/2/2022, 2:01:55 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:07:02 AM - INFO - Req!!!
+4/2/2022, 2:07:02 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:07:03 AM - INFO - Req!!!
+4/2/2022, 2:07:03 AM - INFO - Req from: yarden
+4/2/2022, 2:07:03 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:09:56 AM - INFO - Req!!!
+4/2/2022, 2:09:56 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:09:57 AM - INFO - Req!!!
+4/2/2022, 2:09:57 AM - INFO - Req from: yarden
+4/2/2022, 2:09:57 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:33 AM - INFO - Req!!!
+4/2/2022, 2:11:33 AM - INFO - Req from: yarden
+4/2/2022, 2:11:33 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:48 AM - INFO - Req!!!
+4/2/2022, 2:11:48 AM - INFO - Req from: yarden
+4/2/2022, 2:11:48 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:50 AM - INFO - Req!!!
+4/2/2022, 2:11:50 AM - INFO - Req from: yarden
+4/2/2022, 2:11:50 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:52 AM - INFO - Req!!!
+4/2/2022, 2:11:52 AM - INFO - Req from: yarden
+4/2/2022, 2:11:52 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:53 AM - INFO - Req!!!
+4/2/2022, 2:11:53 AM - INFO - Req from: yarden
+4/2/2022, 2:11:53 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:11:54 AM - INFO - Req!!!
+4/2/2022, 2:11:54 AM - INFO - Req from: yarden
+4/2/2022, 2:11:54 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:12:36 AM - INFO - Req!!!
+4/2/2022, 2:12:36 AM - INFO - Req from: yarden
+4/2/2022, 2:12:36 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:12:39 AM - INFO - Req!!!
+4/2/2022, 2:12:39 AM - INFO - Req from: yarden
+4/2/2022, 2:12:39 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:12:49 AM - INFO - Req!!!
+4/2/2022, 2:12:49 AM - INFO - Req from: yarden
+4/2/2022, 2:12:49 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"canda","$options":"i"}},{"address.city":{"$regex":"canda","$options":"i"}}]}
+4/2/2022, 2:12:53 AM - INFO - Req!!!
+4/2/2022, 2:12:53 AM - INFO - Req from: yarden
+4/2/2022, 2:12:53 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:13:00 AM - INFO - Req!!!
+4/2/2022, 2:13:00 AM - INFO - Req from: yarden
+4/2/2022, 2:13:00 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:13:09 AM - INFO - Req!!!
+4/2/2022, 2:13:09 AM - INFO - Req from: yarden
+4/2/2022, 2:13:09 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:15:13 AM - INFO - Req!!!
+4/2/2022, 2:15:13 AM - INFO - Req from: yarden
+4/2/2022, 2:15:13 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:15:29 AM - INFO - Req!!!
+4/2/2022, 2:15:29 AM - INFO - Req from: yarden
+4/2/2022, 2:15:29 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:16:56 AM - INFO - Req!!!
+4/2/2022, 2:16:56 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:16:56 AM - INFO - Req!!!
+4/2/2022, 2:16:56 AM - INFO - Req from: yarden
+4/2/2022, 2:16:56 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:17:36 AM - INFO - Req!!!
+4/2/2022, 2:17:36 AM - INFO - Req from: yarden
+4/2/2022, 2:17:36 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:18:21 AM - INFO - Req!!!
+4/2/2022, 2:18:21 AM - INFO - Req from: yarden
+4/2/2022, 2:18:21 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:18:24 AM - INFO - Req!!!
+4/2/2022, 2:18:24 AM - INFO - Req from: yarden
+4/2/2022, 2:18:24 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:18:28 AM - INFO - Req!!!
+4/2/2022, 2:18:28 AM - INFO - Req from: yarden
+4/2/2022, 2:18:28 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:20:14 AM - INFO - Req!!!
+4/2/2022, 2:20:14 AM - INFO - Req from: yarden
+4/2/2022, 2:20:14 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:20:22 AM - INFO - Req!!!
+4/2/2022, 2:20:22 AM - INFO - Req from: yarden
+4/2/2022, 2:20:22 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:21:13 AM - INFO - Req!!!
+4/2/2022, 2:21:13 AM - INFO - Req from: yarden
+4/2/2022, 2:21:13 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"can","$options":"i"}},{"address.city":{"$regex":"can","$options":"i"}}]}
+4/2/2022, 2:21:16 AM - INFO - Req!!!
+4/2/2022, 2:21:16 AM - INFO - Req from: yarden
+4/2/2022, 2:21:16 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:21:18 AM - INFO - Req!!!
+4/2/2022, 2:21:18 AM - INFO - Req from: yarden
+4/2/2022, 2:21:18 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:21:25 AM - INFO - Req!!!
+4/2/2022, 2:21:25 AM - INFO - Req from: yarden
+4/2/2022, 2:21:25 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:21:58 AM - INFO - Req!!!
+4/2/2022, 2:21:58 AM - INFO - Req from: yarden
+4/2/2022, 2:21:58 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:21 AM - INFO - Req!!!
+4/2/2022, 2:22:21 AM - INFO - Req from: yarden
+4/2/2022, 2:22:21 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:24 AM - INFO - Req!!!
+4/2/2022, 2:22:24 AM - INFO - Req from: yarden
+4/2/2022, 2:22:24 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:22:26 AM - INFO - Req!!!
+4/2/2022, 2:22:26 AM - INFO - Req from: yarden
+4/2/2022, 2:22:26 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:33 AM - INFO - Req!!!
+4/2/2022, 2:22:33 AM - INFO - Req from: yarden
+4/2/2022, 2:22:33 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:36 AM - INFO - Req!!!
+4/2/2022, 2:22:36 AM - INFO - Req from: yarden
+4/2/2022, 2:22:36 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:39 AM - INFO - Req!!!
+4/2/2022, 2:22:39 AM - INFO - Req from: yarden
+4/2/2022, 2:22:39 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:41 AM - INFO - Req!!!
+4/2/2022, 2:22:41 AM - INFO - Req from: yarden
+4/2/2022, 2:22:41 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:22:48 AM - INFO - Req!!!
+4/2/2022, 2:22:48 AM - INFO - Req from: yarden
+4/2/2022, 2:22:48 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:23:43 AM - INFO - Req!!!
+4/2/2022, 2:23:43 AM - INFO - Req from: yarden
+4/2/2022, 2:23:43 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:23:51 AM - INFO - Req!!!
+4/2/2022, 2:23:51 AM - INFO - Req from: yarden
+4/2/2022, 2:23:51 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:32:36 AM - INFO - Req!!!
+4/2/2022, 2:32:36 AM - INFO - Req from: yarden
+4/2/2022, 2:32:36 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:32:38 AM - INFO - Req!!!
+4/2/2022, 2:32:38 AM - INFO - Req from: yarden
+4/2/2022, 2:32:38 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:32:40 AM - INFO - Req!!!
+4/2/2022, 2:32:40 AM - INFO - Req from: yarden
+4/2/2022, 2:32:40 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:32:44 AM - INFO - Req!!!
+4/2/2022, 2:32:44 AM - INFO - Req from: yarden
+4/2/2022, 2:32:44 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:33:20 AM - INFO - Req!!!
+4/2/2022, 2:33:20 AM - INFO - Req from: yarden
+4/2/2022, 2:33:20 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:33:21 AM - INFO - Req!!!
+4/2/2022, 2:33:21 AM - INFO - Req from: yarden
+4/2/2022, 2:33:21 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:33:23 AM - INFO - Req!!!
+4/2/2022, 2:33:23 AM - INFO - Req from: yarden
+4/2/2022, 2:33:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:33:31 AM - INFO - Req!!!
+4/2/2022, 2:33:31 AM - INFO - Req from: yarden
+4/2/2022, 2:33:31 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:34:10 AM - INFO - Req!!!
+4/2/2022, 2:34:10 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:34:11 AM - INFO - Req!!!
+4/2/2022, 2:34:11 AM - INFO - Req from: yarden
+4/2/2022, 2:34:11 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:37:29 AM - INFO - Req!!!
+4/2/2022, 2:37:29 AM - INFO - Req from: yarden
+4/2/2022, 2:37:29 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:37:41 AM - INFO - Req!!!
+4/2/2022, 2:37:41 AM - INFO - Req from: yarden
+4/2/2022, 2:37:41 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 2:37:55 AM - INFO - Req!!!
+4/2/2022, 2:37:55 AM - INFO - Req from: yarden
+4/2/2022, 2:37:55 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 2:38:43 AM - INFO - Req!!!
+4/2/2022, 2:38:43 AM - INFO - Req from: yarden
+4/2/2022, 2:38:43 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:12:18 AM - INFO - Req!!!
+4/2/2022, 3:12:18 AM - INFO - Req from: yarden
+4/2/2022, 3:12:18 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:17:56 AM - INFO - Req!!!
+4/2/2022, 3:17:56 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:17:57 AM - INFO - Req!!!
+4/2/2022, 3:17:57 AM - INFO - Req from: yarden
+4/2/2022, 3:17:57 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:20:39 AM - INFO - Req!!!
+4/2/2022, 3:20:39 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:20:40 AM - INFO - Req!!!
+4/2/2022, 3:20:40 AM - INFO - Req from: yarden
+4/2/2022, 3:20:40 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:22:32 AM - INFO - Req!!!
+4/2/2022, 3:22:32 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:22:33 AM - INFO - Req!!!
+4/2/2022, 3:22:33 AM - INFO - Req from: yarden
+4/2/2022, 3:22:33 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:39:39 AM - INFO - Req!!!
+4/2/2022, 3:39:39 AM - INFO - Req from: yarden
+4/2/2022, 3:39:39 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:40:39 AM - INFO - Req!!!
+4/2/2022, 3:40:39 AM - INFO - Req from: yarden
+4/2/2022, 3:40:39 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:40:46 AM - INFO - Req!!!
+4/2/2022, 3:40:46 AM - INFO - Req from: yarden
+4/2/2022, 3:40:46 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:41:02 AM - INFO - Req!!!
+4/2/2022, 3:41:02 AM - INFO - Req from: yarden
+4/2/2022, 3:41:02 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:42:14 AM - INFO - Req!!!
+4/2/2022, 3:42:14 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:42:16 AM - INFO - Req!!!
+4/2/2022, 3:42:16 AM - INFO - Req from: yarden
+4/2/2022, 3:42:16 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:42:23 AM - INFO - Req!!!
+4/2/2022, 3:42:23 AM - INFO - Req from: yarden
+4/2/2022, 3:42:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:42:33 AM - INFO - Req!!!
+4/2/2022, 3:42:33 AM - INFO - Req from: yarden
+4/2/2022, 3:42:33 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"cana","$options":"i"}},{"address.city":{"$regex":"cana","$options":"i"}}]}
+4/2/2022, 3:45:34 AM - INFO - Req!!!
+4/2/2022, 3:45:34 AM - INFO - Req from: yarden
+4/2/2022, 3:45:34 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:45:36 AM - INFO - Req!!!
+4/2/2022, 3:45:36 AM - INFO - Req from: yarden
+4/2/2022, 3:45:36 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:45:39 AM - INFO - Req!!!
+4/2/2022, 3:45:39 AM - INFO - Req from: yarden
+4/2/2022, 3:45:39 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:47:16 AM - INFO - Req!!!
+4/2/2022, 3:47:16 AM - INFO - Req from: yarden
+4/2/2022, 3:47:16 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:47:23 AM - INFO - Req!!!
+4/2/2022, 3:47:23 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:48:32 AM - INFO - Req!!!
+4/2/2022, 3:48:32 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:49:04 AM - INFO - Req!!!
+4/2/2022, 3:49:04 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:50:59 AM - INFO - Req!!!
+4/2/2022, 3:50:59 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:51:00 AM - INFO - Req!!!
+4/2/2022, 3:51:00 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Montreal","$options":"i"}},{"address.city":{"$regex":"Montreal","$options":"i"}}]}
+4/2/2022, 3:51:11 AM - INFO - Req!!!
+4/2/2022, 3:51:11 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:51:13 AM - INFO - Req!!!
+4/2/2022, 3:51:13 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 3:53:43 AM - INFO - Req!!!
+4/2/2022, 3:53:43 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 3:56:36 AM - INFO - Req!!!
+4/2/2022, 3:56:36 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:56:37 AM - INFO - Req!!!
+4/2/2022, 3:56:37 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 3:57:44 AM - INFO - Req!!!
+4/2/2022, 3:57:44 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:57:45 AM - INFO - Req!!!
+4/2/2022, 3:57:45 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 3:58:25 AM - INFO - Req!!!
+4/2/2022, 3:58:25 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:03:16 AM - INFO - Req!!!
+4/2/2022, 4:03:16 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:03:16 AM - INFO - Req!!!
+4/2/2022, 4:03:16 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:04:16 AM - INFO - Req!!!
+4/2/2022, 4:04:16 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:04:17 AM - INFO - Req!!!
+4/2/2022, 4:04:17 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:04:45 AM - INFO - Req!!!
+4/2/2022, 4:04:45 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:04:46 AM - INFO - Req!!!
+4/2/2022, 4:04:46 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:05:12 AM - INFO - Req!!!
+4/2/2022, 4:05:12 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:05:13 AM - INFO - Req!!!
+4/2/2022, 4:05:13 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:05:31 AM - INFO - Req!!!
+4/2/2022, 4:05:31 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:05:32 AM - INFO - Req!!!
+4/2/2022, 4:05:32 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 4:06:45 AM - INFO - Req!!!
+4/2/2022, 4:06:45 AM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:06:46 AM - INFO - Req!!!
+4/2/2022, 4:06:46 AM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 12:40:37 PM - INFO - Server is running on port: 3030
+4/2/2022, 12:40:43 PM - INFO - Req!!!
+4/2/2022, 12:40:43 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:16:02 PM - INFO - Server is running on port: 3030
+4/2/2022, 1:25:50 PM - INFO - Server is running on port: 3030
+4/2/2022, 1:37:07 PM - INFO - Req!!!
+4/2/2022, 1:37:07 PM - INFO - Req!!!
+4/2/2022, 1:37:07 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:38:22 PM - DEBUG - auth.service - login with username: yarden
+4/2/2022, 1:38:58 PM - INFO - Req!!!
+4/2/2022, 1:38:58 PM - INFO - Req from: yarden
+4/2/2022, 1:38:58 PM - WARN - yarden Attempt to perform admin action
+4/2/2022, 1:41:00 PM - INFO - Server is running on port: 3030
+4/2/2022, 1:41:07 PM - INFO - Req!!!
+4/2/2022, 1:41:08 PM - INFO - Req!!!
+4/2/2022, 1:41:08 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:41:16 PM - INFO - Req!!!
+4/2/2022, 1:41:17 PM - INFO - Req!!!
+4/2/2022, 1:41:17 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:41:33 PM - INFO - Req!!!
+4/2/2022, 1:41:33 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Barcelona","$options":"i"}},{"address.city":{"$regex":"Barcelona","$options":"i"}}]}
+4/2/2022, 1:41:48 PM - INFO - Req!!!
+4/2/2022, 1:41:49 PM - INFO - Req!!!
+4/2/2022, 1:41:49 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:43:07 PM - INFO - Req!!!
+4/2/2022, 1:43:07 PM - INFO - Req!!!
+4/2/2022, 1:43:07 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:43:44 PM - INFO - Req!!!
+4/2/2022, 1:43:44 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 1:44:22 PM - INFO - Server is running on port: 3030
+4/2/2022, 1:44:37 PM - INFO - Req!!!
+4/2/2022, 1:44:39 PM - INFO - Req!!!
+4/2/2022, 1:55:08 PM - INFO - Req!!!
+4/2/2022, 1:55:47 PM - INFO - Req!!!
+4/2/2022, 2:01:26 PM - INFO - Req!!!
+4/2/2022, 2:04:13 PM - INFO - Req!!!
+4/2/2022, 2:05:43 PM - INFO - Req!!!
+4/2/2022, 2:10:00 PM - INFO - Req!!!
+4/2/2022, 2:10:03 PM - INFO - Req!!!
+4/2/2022, 2:11:46 PM - INFO - Req!!!
+4/2/2022, 2:12:34 PM - INFO - Req!!!
+4/2/2022, 2:13:17 PM - INFO - Req!!!
+4/2/2022, 2:15:27 PM - INFO - Req!!!
+4/2/2022, 2:23:56 PM - INFO - Req!!!
+4/2/2022, 2:23:56 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 2:23:59 PM - INFO - Req!!!
+4/2/2022, 2:23:59 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:45:38 PM - INFO - Req!!!
+4/2/2022, 2:45:38 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 2:59:07 PM - INFO - Server is running on port: 3030
+4/2/2022, 3:21:57 PM - INFO - Req!!!
+4/2/2022, 3:21:57 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:21:59 PM - INFO - Req!!!
+4/2/2022, 3:21:59 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 3:22:01 PM - INFO - Req!!!
+4/2/2022, 3:22:01 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:22:13 PM - INFO - Req!!!
+4/2/2022, 3:22:13 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"canada","$options":"i"}},{"address.city":{"$regex":"canada","$options":"i"}}]}
+4/2/2022, 3:22:54 PM - INFO - Req!!!
+4/2/2022, 3:22:54 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"canada","$options":"i"}},{"address.city":{"$regex":"canada","$options":"i"}}]}
+4/2/2022, 3:25:47 PM - INFO - Req!!!
+4/2/2022, 3:25:47 PM - INFO - Req!!!
+4/2/2022, 3:25:47 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"canada","$options":"i"}},{"address.city":{"$regex":"canada","$options":"i"}}]}
+4/2/2022, 3:26:06 PM - INFO - Req!!!
+4/2/2022, 3:26:06 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"canada","$options":"i"}},{"address.city":{"$regex":"canada","$options":"i"}}]}
+4/2/2022, 3:39:57 PM - INFO - Req!!!
+4/2/2022, 3:42:57 PM - INFO - Req!!!
+4/2/2022, 3:44:32 PM - INFO - Req!!!
+4/2/2022, 3:45:50 PM - INFO - Req!!!
+4/2/2022, 3:45:50 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:47:03 PM - INFO - Req!!!
+4/2/2022, 3:47:03 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 3:47:07 PM - INFO - Req!!!
+4/2/2022, 3:48:34 PM - INFO - Req!!!
+4/2/2022, 3:48:39 PM - INFO - Req!!!
+4/2/2022, 3:49:42 PM - INFO - Req!!!
+4/2/2022, 3:49:47 PM - INFO - Req!!!
+4/2/2022, 3:50:55 PM - INFO - Req!!!
+4/2/2022, 3:51:00 PM - INFO - Req!!!
+4/2/2022, 3:52:51 PM - INFO - Req!!!
+4/2/2022, 3:58:58 PM - INFO - Req!!!
+4/2/2022, 3:59:08 PM - INFO - Req!!!
+4/2/2022, 4:04:53 PM - INFO - Req!!!
+4/2/2022, 4:04:53 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 4:04:55 PM - INFO - Req!!!
+4/2/2022, 4:04:55 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 4:06:21 PM - INFO - Req!!!
+4/2/2022, 4:06:21 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 4:19:39 PM - INFO - Req!!!
+4/2/2022, 4:19:54 PM - DEBUG - auth.service - login with username: yarden
+4/2/2022, 4:22:50 PM - INFO - Req!!!
+4/2/2022, 4:22:50 PM - INFO - Req from: yarden
+4/2/2022, 4:22:59 PM - INFO - Req!!!
+4/2/2022, 4:22:59 PM - INFO - Req from: yarden
+4/2/2022, 4:23:37 PM - INFO - Req!!!
+4/2/2022, 4:23:37 PM - INFO - Req from: yarden
+4/2/2022, 4:24:00 PM - INFO - Req!!!
+4/2/2022, 4:24:00 PM - INFO - Req from: yarden
+4/2/2022, 4:42:54 PM - INFO - Req!!!
+4/2/2022, 4:42:54 PM - INFO - Req from: yarden
+4/2/2022, 4:43:25 PM - INFO - Req!!!
+4/2/2022, 4:43:25 PM - INFO - Req from: yarden
+4/2/2022, 4:51:48 PM - INFO - Req!!!
+4/2/2022, 4:51:48 PM - INFO - Req from: yarden
+4/2/2022, 4:54:47 PM - INFO - Req!!!
+4/2/2022, 4:54:47 PM - INFO - Req from: yarden
+4/2/2022, 5:00:11 PM - INFO - Req!!!
+4/2/2022, 5:00:11 PM - INFO - Req from: yarden
+4/2/2022, 5:04:06 PM - INFO - Req!!!
+4/2/2022, 5:04:06 PM - INFO - Req from: yarden
+4/2/2022, 5:05:40 PM - INFO - Req!!!
+4/2/2022, 5:05:40 PM - INFO - Req from: yarden
+4/2/2022, 5:08:23 PM - INFO - Req!!!
+4/2/2022, 5:08:23 PM - INFO - Req from: yarden
+4/2/2022, 5:10:32 PM - INFO - Req!!!
+4/2/2022, 5:10:32 PM - INFO - Req from: yarden
+4/2/2022, 5:10:59 PM - INFO - Req!!!
+4/2/2022, 5:10:59 PM - INFO - Req from: yarden
+4/2/2022, 5:11:30 PM - INFO - Req!!!
+4/2/2022, 5:11:30 PM - INFO - Req from: yarden
+4/2/2022, 5:12:13 PM - INFO - Req!!!
+4/2/2022, 5:12:13 PM - INFO - Req from: yarden
+4/2/2022, 5:12:53 PM - INFO - Req!!!
+4/2/2022, 5:12:53 PM - INFO - Req from: yarden
+4/2/2022, 5:13:07 PM - INFO - Req!!!
+4/2/2022, 5:13:07 PM - INFO - Req from: yarden
+4/2/2022, 5:14:07 PM - INFO - Req!!!
+4/2/2022, 5:14:07 PM - INFO - Req from: yarden
+4/2/2022, 5:14:22 PM - INFO - Req!!!
+4/2/2022, 5:14:22 PM - INFO - Req from: yarden
+4/2/2022, 5:14:23 PM - INFO - Req!!!
+4/2/2022, 5:14:23 PM - INFO - Req from: yarden
+4/2/2022, 5:15:10 PM - INFO - Req!!!
+4/2/2022, 5:15:10 PM - INFO - Req from: yarden
+4/2/2022, 5:15:19 PM - INFO - Req!!!
+4/2/2022, 5:15:19 PM - INFO - Req from: yarden
+4/2/2022, 5:15:37 PM - INFO - Req!!!
+4/2/2022, 5:15:37 PM - INFO - Req from: yarden
+4/2/2022, 5:15:39 PM - INFO - Req!!!
+4/2/2022, 5:15:39 PM - INFO - Req from: yarden
+4/2/2022, 5:15:40 PM - INFO - Req!!!
+4/2/2022, 5:15:40 PM - INFO - Req from: yarden
+4/2/2022, 5:23:39 PM - INFO - Req!!!
+4/2/2022, 5:23:39 PM - INFO - Req from: yarden
+4/2/2022, 5:23:43 PM - INFO - Req!!!
+4/2/2022, 5:23:43 PM - INFO - Req from: yarden
+4/2/2022, 5:28:57 PM - INFO - Req!!!
+4/2/2022, 5:28:57 PM - INFO - Req from: yarden
+4/2/2022, 5:29:47 PM - INFO - Req!!!
+4/2/2022, 5:29:47 PM - INFO - Req from: yarden
+4/2/2022, 5:30:33 PM - INFO - Req!!!
+4/2/2022, 5:30:33 PM - INFO - Req from: yarden
+4/2/2022, 5:31:18 PM - INFO - Req!!!
+4/2/2022, 5:31:18 PM - INFO - Req from: yarden
+4/2/2022, 5:31:52 PM - INFO - Req!!!
+4/2/2022, 5:31:52 PM - INFO - Req from: yarden
+4/2/2022, 5:32:03 PM - INFO - Req!!!
+4/2/2022, 5:32:03 PM - INFO - Req from: yarden
+4/2/2022, 5:32:07 PM - INFO - Req!!!
+4/2/2022, 5:32:07 PM - INFO - Req from: yarden
+4/2/2022, 5:37:18 PM - INFO - Req!!!
+4/2/2022, 5:37:18 PM - INFO - Req from: yarden
+4/2/2022, 5:37:36 PM - INFO - Req!!!
+4/2/2022, 5:37:36 PM - INFO - Req from: yarden
+4/2/2022, 5:38:14 PM - INFO - Req!!!
+4/2/2022, 5:38:14 PM - INFO - Req from: yarden
+4/2/2022, 5:38:27 PM - INFO - Req!!!
+4/2/2022, 5:38:27 PM - INFO - Req from: yarden
+4/2/2022, 5:38:29 PM - INFO - Req!!!
+4/2/2022, 5:38:29 PM - INFO - Req from: yarden
+4/2/2022, 5:38:42 PM - INFO - Req!!!
+4/2/2022, 5:38:42 PM - INFO - Req from: yarden
+4/2/2022, 5:40:07 PM - INFO - Req!!!
+4/2/2022, 5:40:07 PM - INFO - Req from: yarden
+4/2/2022, 5:57:59 PM - INFO - Req!!!
+4/2/2022, 5:57:59 PM - INFO - Req from: yarden
+4/2/2022, 5:57:59 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 5:58:01 PM - INFO - Req!!!
+4/2/2022, 5:58:01 PM - INFO - Req from: yarden
+4/2/2022, 5:58:01 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 5:58:13 PM - INFO - Req!!!
+4/2/2022, 5:58:13 PM - INFO - Req from: yarden
+4/2/2022, 5:58:13 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 5:58:16 PM - INFO - Req!!!
+4/2/2022, 5:58:16 PM - INFO - Req from: yarden
+4/2/2022, 5:58:16 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 5:58:18 PM - INFO - Req!!!
+4/2/2022, 5:58:18 PM - INFO - Req from: yarden
+4/2/2022, 5:58:18 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 5:58:41 PM - INFO - Req!!!
+4/2/2022, 5:58:41 PM - INFO - Req from: yarden
+4/2/2022, 5:58:41 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 5:58:43 PM - INFO - Req!!!
+4/2/2022, 5:58:43 PM - INFO - Req from: yarden
+4/2/2022, 5:58:43 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 5:58:58 PM - INFO - Req!!!
+4/2/2022, 5:58:58 PM - INFO - Req from: yarden
+4/2/2022, 5:58:58 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 5:59:00 PM - INFO - Req!!!
+4/2/2022, 5:59:00 PM - INFO - Req from: yarden
+4/2/2022, 5:59:00 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:04:15 PM - INFO - Req!!!
+4/2/2022, 6:04:15 PM - INFO - Req from: yarden
+4/2/2022, 6:04:15 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:04:22 PM - INFO - Req!!!
+4/2/2022, 6:04:22 PM - INFO - Req from: yarden
+4/2/2022, 6:04:22 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 6:05:12 PM - INFO - Req!!!
+4/2/2022, 6:05:12 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:06:03 PM - INFO - Server is running on port: 3030
+4/2/2022, 6:08:04 PM - INFO - Req!!!
+4/2/2022, 6:08:04 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:08:08 PM - INFO - Req!!!
+4/2/2022, 6:08:08 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:11:07 PM - INFO - Req!!!
+4/2/2022, 6:11:10 PM - INFO - Req!!!
+4/2/2022, 6:11:10 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:11:13 PM - INFO - Req!!!
+4/2/2022, 6:11:13 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:11:16 PM - INFO - Req!!!
+4/2/2022, 6:11:16 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:14:06 PM - INFO - Req!!!
+4/2/2022, 6:14:06 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:14:27 PM - INFO - Req!!!
+4/2/2022, 6:14:27 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:14:30 PM - INFO - Req!!!
+4/2/2022, 6:14:30 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:14:32 PM - INFO - Req!!!
+4/2/2022, 6:14:32 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:16:19 PM - INFO - Req!!!
+4/2/2022, 6:16:19 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:16:23 PM - INFO - Req!!!
+4/2/2022, 6:16:23 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:16:25 PM - INFO - Req!!!
+4/2/2022, 6:16:25 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:17:25 PM - INFO - Req!!!
+4/2/2022, 6:17:25 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:17:30 PM - INFO - Req!!!
+4/2/2022, 6:17:30 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:17:31 PM - INFO - Req!!!
+4/2/2022, 6:17:31 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:18:56 PM - INFO - Req!!!
+4/2/2022, 6:18:56 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 6:19:57 PM - INFO - Server is running on port: 3030
+4/2/2022, 6:20:04 PM - INFO - Req!!!
+4/2/2022, 6:20:04 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:20:19 PM - INFO - Req!!!
+4/2/2022, 6:20:19 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:23:04 PM - INFO - Req!!!
+4/2/2022, 6:23:04 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:23:06 PM - INFO - Req!!!
+4/2/2022, 6:23:06 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:23:46 PM - INFO - Req!!!
+4/2/2022, 6:23:46 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:23:49 PM - INFO - Req!!!
+4/2/2022, 6:23:49 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:25:48 PM - INFO - Req!!!
+4/2/2022, 6:25:48 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:25:50 PM - INFO - Req!!!
+4/2/2022, 6:25:50 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:27:00 PM - INFO - Req!!!
+4/2/2022, 6:27:00 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:27:01 PM - INFO - Req!!!
+4/2/2022, 6:27:01 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:28:32 PM - INFO - Req!!!
+4/2/2022, 6:28:32 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:28:34 PM - INFO - Req!!!
+4/2/2022, 6:28:34 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:31:28 PM - INFO - Req!!!
+4/2/2022, 6:31:28 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:31:29 PM - INFO - Req!!!
+4/2/2022, 6:31:29 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:32:45 PM - INFO - Req!!!
+4/2/2022, 6:32:45 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:32:47 PM - INFO - Req!!!
+4/2/2022, 6:32:47 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:40:09 PM - INFO - Req!!!
+4/2/2022, 6:40:09 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:40:10 PM - INFO - Req!!!
+4/2/2022, 6:40:10 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:40:47 PM - INFO - Req!!!
+4/2/2022, 6:40:47 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:40:49 PM - INFO - Req!!!
+4/2/2022, 6:40:49 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 6:41:58 PM - INFO - Req!!!
+4/2/2022, 6:41:58 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 6:42:00 PM - INFO - Req!!!
+4/2/2022, 6:42:00 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 10:07:32 PM - INFO - Req!!!
+4/2/2022, 10:07:32 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 10:08:52 PM - INFO - Req!!!
+4/2/2022, 10:08:52 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 10:08:54 PM - INFO - Req!!!
+4/2/2022, 10:08:54 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 10:09:09 PM - INFO - Req!!!
+4/2/2022, 10:09:09 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 10:09:18 PM - INFO - Req!!!
+4/2/2022, 10:09:18 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 10:10:04 PM - DEBUG - auth.service - login with username: yarden
+4/2/2022, 10:10:36 PM - INFO - Req!!!
+4/2/2022, 10:10:36 PM - INFO - Req from: yarden
+4/2/2022, 10:10:36 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 10:11:51 PM - INFO - Req!!!
+4/2/2022, 10:11:51 PM - INFO - Req from: yarden
+4/2/2022, 10:11:51 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"New York","$options":"i"}},{"address.city":{"$regex":"New York","$options":"i"}}]}
+4/2/2022, 10:17:39 PM - INFO - Req!!!
+4/2/2022, 10:17:39 PM - INFO - Req from: yarden
+4/2/2022, 10:17:39 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 10:17:41 PM - INFO - Req!!!
+4/2/2022, 10:17:41 PM - INFO - Req from: yarden
+4/2/2022, 10:17:41 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
+4/2/2022, 10:18:17 PM - INFO - Req!!!
+4/2/2022, 10:18:17 PM - INFO - Req from: yarden
+4/2/2022, 10:18:17 PM - DEBUG - criteria after filter :>> | {}
+4/2/2022, 10:59:20 PM - INFO - Req!!!
+4/2/2022, 10:59:20 PM - INFO - Req from: yarden
+4/2/2022, 10:59:20 PM - DEBUG - criteria after filter :>> | {"$or":[{"address.country":{"$regex":"Porto","$options":"i"}},{"address.city":{"$regex":"Porto","$options":"i"}}]}
