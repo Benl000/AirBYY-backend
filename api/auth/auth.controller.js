@@ -14,6 +14,8 @@ async function login(req, res) {
     }
 }
 
+
+
 async function signup(req, res) {
     try {
         const { username, password, fullname, imgUrl, id } = req.body;

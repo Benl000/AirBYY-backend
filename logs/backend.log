@@ -2275,3 +2275,44 @@
 2.4.2022, 3:20:23 - DEBUG - auth.service - login with username: 10099253
 2.4.2022, 3:20:29 - INFO - Req!!!
 2.4.2022, 3:20:29 - INFO - Req from: Ashley
+2.4.2022, 3:22:50 - INFO - Req!!!
+2.4.2022, 3:22:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 3:22:57 - INFO - Req!!!
+2.4.2022, 3:22:57 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 3:23:07 - INFO - Req!!!
+2.4.2022, 3:23:07 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"]}
+2.4.2022, 16:39:54 - INFO - Server is running on port: 3030
+2.4.2022, 16:41:13 - INFO - Server is running on port: 3030
+2.4.2022, 16:42:06 - INFO - Req!!!
+2.4.2022, 16:42:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:42:50 - INFO - Server is running on port: 3030
+2.4.2022, 16:42:54 - INFO - Req!!!
+2.4.2022, 16:42:54 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:46:36 - INFO - Req!!!
+2.4.2022, 16:46:36 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:48:25 - INFO - Req!!!
+2.4.2022, 16:48:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:51:37 - INFO - Server is running on port: 3030
+2.4.2022, 16:53:30 - INFO - Req!!!
+2.4.2022, 16:53:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:54:47 - INFO - Server is running on port: 3030
+2.4.2022, 16:55:22 - INFO - Server is running on port: 3030
+2.4.2022, 16:55:26 - INFO - Server is running on port: 3030
+2.4.2022, 16:55:30 - INFO - Req!!!
+2.4.2022, 16:55:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 16:56:03 - DEBUG - auth.service - login with username: ben
+2.4.2022, 16:58:32 - INFO - Server is running on port: 3030
+2.4.2022, 17:00:30 - INFO - Server is running on port: 3030
+2.4.2022, 17:00:46 - INFO - Server is running on port: 3030
+2.4.2022, 17:01:51 - INFO - Req!!!
+2.4.2022, 17:01:51 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 17:05:18 - INFO - Server is running on port: 3030
+2.4.2022, 17:05:34 - INFO - Server is running on port: 3030
+2.4.2022, 17:07:31 - INFO - Server is running on port: 3030
+2.4.2022, 17:07:59 - INFO - Server is running on port: 3030
+2.4.2022, 17:08:29 - INFO - Server is running on port: 3030
+2.4.2022, 17:11:41 - INFO - Server is running on port: 3030
+2.4.2022, 17:11:57 - INFO - Server is running on port: 3030
+2.4.2022, 17:12:32 - INFO - Req!!!
+2.4.2022, 17:12:32 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[]}
+2.4.2022, 17:14:16 - INFO - Server is running on port: 3030
