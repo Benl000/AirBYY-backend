@@ -3465,3 +3465,26 @@
 4/3/2022, 12:52:08 AM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
 4/3/2022, 12:53:13 AM - INFO - Req!!!
 4/3/2022, 12:53:13 AM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+4/3/2022, 12:58:10 AM - INFO - Server is running on port: 3030
+4/3/2022, 1:05:27 AM - INFO - Req!!!
+4/3/2022, 1:05:27 AM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:27 AM - INFO - Req!!!
+4/3/2022, 1:05:27 AM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:29 AM - INFO - Req!!!
+4/3/2022, 1:05:29 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:29 AM - INFO - Req!!!
+4/3/2022, 1:05:29 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:32 AM - INFO - Req!!!
+4/3/2022, 1:05:33 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4/3/2022, 1:05:34 AM - INFO - Req!!!
+4/3/2022, 1:05:34 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:35 AM - INFO - Req!!!
+4/3/2022, 1:05:35 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4/3/2022, 1:05:59 AM - INFO - Req!!!
+4/3/2022, 1:05:59 AM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:59 AM - INFO - Req!!!
+4/3/2022, 1:05:59 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:05:59 AM - INFO - Req!!!
+4/3/2022, 1:05:59 AM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 1:06:00 AM - INFO - Req!!!
+4/3/2022, 1:06:00 AM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
