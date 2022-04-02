@@ -4,18 +4,13 @@ const logger = require('../../service/logger.service');
 // GET ROOM LIST
 
 async function getRooms(req, res) {
-    // const typeList = JSON.parse(req.query.roomType)
     let roomType = setRoomType(JSON.parse(req.query.roomType))
-    // console.log('get room filterBy line 7 :>>' , typeList );
     try {
         var filterBy = {
             destination: req.query?.destination || '',
-            // roomType: req.query?.roomType || '',
-            // minPrice: +req.query?.minPrice || 0,
-            // maxPrice: +req.query?.maxPrice || 10000,
+            minPrice: +req.query?.minPrice || 0,
+            maxPrice: +req.query?.maxPrice || 10000,
             roomType,
-            minPrice: 0,
-            maxPrice: 10000,
         };
         console.log('get rooms inline 11 :>>', filterBy);
         const rooms = await roomService.query(filterBy);

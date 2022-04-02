@@ -32,6 +32,8 @@ async function getOrderById(req, res) {
 async function addOrder(req, res) {
     try {
         const orderToSave = req.body;
+        const userId = req.session.user._id
+        orderToSave.userId = userId
         console.log('addOrder line 35 :>>', orderToSave);
         console.log('addedOrder order controller line36 :>>', orderToSave);
         const addedOrder = await orderService.add(orderToSave);

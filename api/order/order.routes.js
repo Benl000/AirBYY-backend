@@ -8,8 +8,8 @@ const router = express.Router()
 
 
 
-router.get('/',log,requireAuth, requireAdmin,getOrders)
-router.get('/:id',requireAuth,getOrderById)
+router.get('/',log,getOrders)
+router.get('/:id',getOrderById)
 router.post('/', requireAuth,addOrder)
 
 
