@@ -2,9 +2,10 @@ const express = require("express");
 const cors = require("cors");
 const path = require('path');
 const expressSession = require('express-session')
-
 const app = express();
 const http = require('http').createServer(app)
+// const { Server } = require("socket.io")
+// const io = new Server(http)
 
 const session = expressSession({
     secret: 'byy is amazing',
@@ -29,20 +30,19 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
   }
-
-    
     const authRoutes = require('./api/auth/auth.routes')
     const userRoutes = require('./api/user/user.routes')
     const roomRoutes = require('./api/room/room.routes')
     const orderRoutes = require('./api/order/order.routes')
-    
+    const { connectSockets } = require('./service/socket.service')
 
     // routes
-
     app.use('/api/auth',authRoutes)
     app.use('/api/order',orderRoutes)
     app.use('/api/user',userRoutes)
     app.use('/api/room',roomRoutes)
+
+    connectSockets(http, session)
 
 
     app.get('/**', (req, res) => {
