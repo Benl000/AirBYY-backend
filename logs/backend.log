@@ -3660,3 +3660,75 @@
 >>>>>>> bd194569d2e9022c597eb7c64254623ae8fe2890
 >>>>>>> 9f165600b0ee13f5a648af29d5c6d1b9f0f41234
 3.4.2022, 1:10:06 - INFO - Server is running on port: 3030
+4/3/2022, 8:31:38 PM - INFO - Server is running on port: 3030
+4/3/2022, 8:31:49 PM - INFO - Req!!!
+4/3/2022, 8:31:49 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 8:31:49 PM - INFO - Req!!!
+4/3/2022, 8:31:49 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 8:31:59 PM - INFO - Req!!!
+4/3/2022, 8:31:59 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 8:32:10 PM - INFO - Req!!!
+4/3/2022, 8:32:10 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 8:32:14 PM - INFO - Req!!!
+4/3/2022, 9:52:32 PM - INFO - Server is running on port: 3030
+4/3/2022, 9:52:37 PM - INFO - Req!!!
+4/3/2022, 9:52:37 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 9:52:44 PM - INFO - Req!!!
+4/3/2022, 9:52:44 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 9:52:44 PM - INFO - Req!!!
+4/3/2022, 9:52:44 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 9:54:19 PM - INFO - Req!!!
+4/3/2022, 9:54:19 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 9:54:19 PM - INFO - Req!!!
+4/3/2022, 9:54:56 PM - INFO - Server is running on port: 3030
+4/3/2022, 9:57:20 PM - INFO - Req!!!
+4/3/2022, 9:58:44 PM - INFO - Server is running on port: 3030
+4/3/2022, 9:58:48 PM - INFO - Req!!!
+4/3/2022, 10:01:24 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:01:29 PM - INFO - Req!!!
+4/3/2022, 10:01:29 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:36 PM - INFO - Req!!!
+4/3/2022, 10:01:36 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:36 PM - INFO - Req!!!
+4/3/2022, 10:01:36 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:38 PM - INFO - Req!!!
+4/3/2022, 10:01:38 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:49 PM - INFO - Req!!!
+4/3/2022, 10:01:49 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:52 PM - INFO - Req!!!
+4/3/2022, 10:01:52 PM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:52 PM - INFO - Req!!!
+4/3/2022, 10:01:52 PM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:01:54 PM - INFO - Req!!!
+4/3/2022, 10:01:54 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:01 PM - INFO - Req!!!
+4/3/2022, 10:02:01 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:09 PM - INFO - Req!!!
+4/3/2022, 10:02:09 PM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:09 PM - INFO - Req!!!
+4/3/2022, 10:02:09 PM - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:11 PM - INFO - Req!!!
+4/3/2022, 10:02:11 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:37 PM - INFO - Req!!!
+4/3/2022, 10:02:37 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:02:46 PM - INFO - Req!!!
+4/3/2022, 10:02:46 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:07:27 PM - INFO - Req!!!
+4/3/2022, 10:07:39 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:07:41 PM - INFO - Req!!!
+4/3/2022, 10:10:51 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:10:56 PM - INFO - Req!!!
+4/3/2022, 10:13:04 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:13:12 PM - INFO - Req!!!
+4/3/2022, 10:15:55 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:16:26 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:16:29 PM - INFO - Req!!!
+4/3/2022, 10:28:40 PM - INFO - Req!!!
+4/3/2022, 10:28:40 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:28:40 PM - INFO - Req!!!
+4/3/2022, 10:28:40 PM - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:31:22 PM - INFO - Req!!!
+4/3/2022, 10:31:22 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:31:22 PM - INFO - Req!!!
+4/3/2022, 10:31:22 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4/3/2022, 10:34:14 PM - INFO - Server is running on port: 3030
