@@ -3732,3 +3732,5 @@
 4/3/2022, 10:31:22 PM - INFO - Req!!!
 4/3/2022, 10:31:22 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
 4/3/2022, 10:34:14 PM - INFO - Server is running on port: 3030
+4/3/2022, 10:34:29 PM - INFO - Req!!!
+4/3/2022, 10:35:06 PM - INFO - Server is running on port: 3030

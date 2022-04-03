@@ -6,7 +6,7 @@ const logger = require('../../service/logger.service');
 
 async function getOrders(req, res) {
 
-    const userId = req.session.user._id || {};
+    const userId = req.session.user?._id || '';
     try {
         const orders = await orderService.query(userId);
         res.json(orders);
