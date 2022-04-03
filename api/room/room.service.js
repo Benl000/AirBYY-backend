@@ -53,7 +53,7 @@ function _buildCriteria(filterBy) {
         criteria.roomType = { $in: filterBy.roomType };
     }
     if (filterBy.amenities.length) {
-        criteria.amenities = { $in: filterBy.amenities };
+        criteria.amenities = { $all: filterBy.amenities };
     }
     criteria.price = { $gte: filterBy.minPrice, $lte: filterBy.maxPrice };
 

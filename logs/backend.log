@@ -3625,4 +3625,38 @@
 =======
 >>>>>>> 448ce7a264c4737b5c0a7ad971ee0b2a28c2fec5
 3.4.2022, 0:59:42 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
+3.4.2022, 1:03:20 - INFO - Server is running on port: 3030
+3.4.2022, 1:03:29 - INFO - Req!!!
+3.4.2022, 1:03:29 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 1:03:41 - INFO - Req!!!
+3.4.2022, 1:03:41 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 1:03:41 - INFO - Req!!!
+3.4.2022, 1:03:41 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 1:03:49 - INFO - Req!!!
+3.4.2022, 1:03:49 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 1:03:50 - INFO - Req!!!
+3.4.2022, 1:03:50 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 1:03:56 - INFO - Req!!!
+3.4.2022, 1:03:56 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 1:03:56 - INFO - Req!!!
+3.4.2022, 1:03:56 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 1:04:01 - INFO - Req!!!
+3.4.2022, 1:04:01 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":["Elevator"]}
+3.4.2022, 1:04:03 - INFO - Req!!!
+3.4.2022, 1:04:03 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":["Elevator","Pool"]}
+3.4.2022, 1:04:05 - INFO - Req!!!
+3.4.2022, 1:04:05 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":["Elevator","Pool","Dryer"]}
+3.4.2022, 1:04:05 - INFO - Req!!!
+3.4.2022, 1:04:06 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":["Elevator","Pool","Dryer","Gym"]}
+3.4.2022, 1:04:06 - INFO - Req!!!
+3.4.2022, 1:04:06 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":116,"maxPrice":500,"roomType":["Private room"],"amenities":["Elevator","Pool","Dryer","Gym","Free canellation"]}
+3.4.2022, 1:04:18 - INFO - Req!!!
+3.4.2022, 1:04:18 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 1:04:19 - INFO - Req!!!
+3.4.2022, 1:04:19 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 1:09:00 - INFO - Server is running on port: 3030
+=======
 >>>>>>> bd194569d2e9022c597eb7c64254623ae8fe2890
+>>>>>>> 9f165600b0ee13f5a648af29d5c6d1b9f0f41234
+3.4.2022, 1:10:06 - INFO - Server is running on port: 3030
