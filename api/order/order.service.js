@@ -4,10 +4,10 @@ const ObjectId = require('mongodb').ObjectId;
 
 async function query(userId = {}) {
     try {
-        const criteria = _buildCriteria(userId)
+        // const criteria = _buildCriteria(userId)
         const collection = await dbService.getCollection('order');
-        var orders = await collection.find({"reserve.hostId":"6241ec1c93b35534ba649128"}).toArray();      
-        // var orders = await collection.find({ 'reserve.hostId': `${userId}`}).toArray();      
+        var orders = await collection.find({"reserve.hostId":"6241ec1c93b35534ba64845a"}).toArray();      
+        // var orders = await collection.find({}).toArray();      
         // var orders = await collection.find(criteria).toArray();
         console.log('query orders service order line11 :>>>>>>', orders);      
         return orders;
@@ -73,7 +73,7 @@ function _buildCriteria(userId) {
     // var criteria = {};
     console.log('roomservice line37 :>>', userId);
     if (userId) {
-        criteria = {"reserve.hostId": "userId"}
+        criteria.$all = {"reserve.hostId": "userId"}
     }
     console.log('build criteria line 75 :>>>>>>>>', criteria);
     return criteria

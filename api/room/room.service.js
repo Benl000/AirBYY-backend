@@ -31,7 +31,6 @@ async function getById(roomId) {
 
 function _buildCriteria(filterBy) {
     var criteria = {};
-    console.log('roomservice line37 :>>', filterBy);
     if (filterBy.destination) {
         const txtCriteria = { $regex: filterBy.destination, $options: 'i' };
         criteria.$or = [

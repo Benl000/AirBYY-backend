@@ -5,10 +5,11 @@ const logger = require('../../service/logger.service');
 // get orders list for host only
 
 async function getOrders(req, res) {
-
+console.log('llllllllllllllllllllll:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
     const userId = req.session.user?._id || '';
     try {
         const orders = await orderService.query(userId);
+        console.log('request of orders line 12 :>>>>>>>>>>>>>>>>>>>>>>>>>');
         res.json(orders);
     } catch (err) {
         logger.error('Failed to get orders', err);
