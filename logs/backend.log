@@ -3660,6 +3660,749 @@
 >>>>>>> bd194569d2e9022c597eb7c64254623ae8fe2890
 >>>>>>> 9f165600b0ee13f5a648af29d5c6d1b9f0f41234
 3.4.2022, 1:10:06 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
+3.4.2022, 10:37:31 - INFO - Server is running on port: 3030
+3.4.2022, 10:38:05 - INFO - Req!!!
+3.4.2022, 10:38:05 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:38:07 - INFO - Req!!!
+3.4.2022, 10:38:07 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:38:10 - INFO - Req!!!
+3.4.2022, 10:38:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:38:10 - INFO - Req!!!
+3.4.2022, 10:38:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:46:52 - INFO - Req!!!
+3.4.2022, 10:46:52 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:48:47 - INFO - Req!!!
+3.4.2022, 10:48:47 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:30 - INFO - Req!!!
+3.4.2022, 10:50:30 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:31 - INFO - Req!!!
+3.4.2022, 10:50:31 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:35 - INFO - Req!!!
+3.4.2022, 10:50:35 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 10:50:38 - INFO - Req!!!
+3.4.2022, 10:50:38 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 10:50:41 - INFO - Req!!!
+3.4.2022, 10:50:41 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 10:50:45 - INFO - Req!!!
+3.4.2022, 10:50:45 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Wifi"]}
+3.4.2022, 10:50:48 - INFO - Req!!!
+3.4.2022, 10:50:48 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Wifi","Kitchen"]}
+3.4.2022, 10:50:54 - INFO - Req!!!
+3.4.2022, 10:50:54 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:55 - INFO - Req!!!
+3.4.2022, 10:50:55 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:57 - INFO - Req!!!
+3.4.2022, 10:50:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:50:57 - INFO - Req!!!
+3.4.2022, 10:50:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:51:00 - INFO - Req!!!
+3.4.2022, 10:51:00 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:51:02 - INFO - Req!!!
+3.4.2022, 10:51:02 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 10:51:14 - INFO - Req!!!
+3.4.2022, 10:51:14 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":116,"roomType":[],"amenities":[]}
+3.4.2022, 10:51:15 - INFO - Req!!!
+3.4.2022, 10:51:15 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":116,"roomType":[],"amenities":[]}
+3.4.2022, 10:51:23 - INFO - Req!!!
+3.4.2022, 10:51:23 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":116,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 15:52:40 - INFO - Req!!!
+3.4.2022, 15:52:40 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:52:41 - INFO - Req!!!
+3.4.2022, 15:52:41 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:56:22 - INFO - Req!!!
+3.4.2022, 15:56:22 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:56:22 - INFO - Req!!!
+3.4.2022, 15:56:22 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:00 - INFO - Req!!!
+3.4.2022, 15:57:00 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:00 - INFO - Req!!!
+3.4.2022, 15:57:00 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:05 - INFO - Req!!!
+3.4.2022, 15:57:05 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:06 - INFO - Req!!!
+3.4.2022, 15:57:06 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:20 - INFO - Req!!!
+3.4.2022, 15:57:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:20 - INFO - Req!!!
+3.4.2022, 15:57:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:43 - INFO - Req!!!
+3.4.2022, 15:57:43 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:57:44 - INFO - Req!!!
+3.4.2022, 15:57:44 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:58:04 - INFO - Req!!!
+3.4.2022, 15:58:04 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:58:04 - INFO - Req!!!
+3.4.2022, 15:58:04 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:58:09 - INFO - Req!!!
+3.4.2022, 15:58:09 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:58:10 - INFO - Req!!!
+3.4.2022, 15:58:10 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:59:51 - INFO - Req!!!
+3.4.2022, 15:59:51 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:59:51 - INFO - Req!!!
+3.4.2022, 15:59:51 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:59:59 - INFO - Req!!!
+3.4.2022, 15:59:59 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 15:59:59 - INFO - Req!!!
+3.4.2022, 15:59:59 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:02 - INFO - Req!!!
+3.4.2022, 16:00:02 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:02 - INFO - Req!!!
+3.4.2022, 16:00:02 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:12 - INFO - Req!!!
+3.4.2022, 16:00:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:12 - INFO - Req!!!
+3.4.2022, 16:00:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:28 - INFO - Req!!!
+3.4.2022, 16:00:28 - DEBUG - criteria after filter :>> | {"destination":"spain","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:28 - INFO - Req!!!
+3.4.2022, 16:00:28 - DEBUG - criteria after filter :>> | {"destination":"spain","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:48 - INFO - Req!!!
+3.4.2022, 16:00:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:00:48 - INFO - Req!!!
+3.4.2022, 16:00:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:01:11 - INFO - Req!!!
+3.4.2022, 16:01:11 - DEBUG - criteria after filter :>> | {"destination":"new york","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:01:11 - INFO - Req!!!
+3.4.2022, 16:01:11 - DEBUG - criteria after filter :>> | {"destination":"new york","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:12 - INFO - Req!!!
+3.4.2022, 16:02:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:12 - INFO - Req!!!
+3.4.2022, 16:02:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:27 - INFO - Req!!!
+3.4.2022, 16:02:27 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:28 - INFO - Req!!!
+3.4.2022, 16:02:28 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:40 - INFO - Req!!!
+3.4.2022, 16:02:40 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:02:40 - INFO - Req!!!
+3.4.2022, 16:02:40 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:18 - INFO - Req!!!
+3.4.2022, 16:04:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:18 - INFO - Req!!!
+3.4.2022, 16:04:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:22 - INFO - Req!!!
+3.4.2022, 16:04:22 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:23 - INFO - Req!!!
+3.4.2022, 16:04:23 - DEBUG - criteria after filter :>> | {"destination":"Montreal","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:26 - INFO - Req!!!
+3.4.2022, 16:04:26 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:26 - INFO - Req!!!
+3.4.2022, 16:04:26 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:33 - INFO - Req!!!
+3.4.2022, 16:04:33 - DEBUG - criteria after filter :>> | {"destination":"can","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:33 - INFO - Req!!!
+3.4.2022, 16:04:33 - DEBUG - criteria after filter :>> | {"destination":"can","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:46 - INFO - Req!!!
+3.4.2022, 16:04:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:04:46 - INFO - Req!!!
+3.4.2022, 16:04:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:12:32 - INFO - Req!!!
+3.4.2022, 16:12:32 - DEBUG - criteria after filter :>> | {"destination":"can","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:12:32 - INFO - Req!!!
+3.4.2022, 16:12:32 - DEBUG - criteria after filter :>> | {"destination":"can","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:12:48 - INFO - Req!!!
+3.4.2022, 16:12:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:12:48 - INFO - Req!!!
+3.4.2022, 16:12:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:13:26 - INFO - Req!!!
+3.4.2022, 16:13:26 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:13:27 - INFO - Req!!!
+3.4.2022, 16:13:27 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:14:17 - INFO - Req!!!
+3.4.2022, 16:14:17 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:14:17 - INFO - Req!!!
+3.4.2022, 16:14:17 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:14:22 - INFO - Req!!!
+3.4.2022, 16:14:22 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:14:23 - INFO - Req!!!
+3.4.2022, 16:14:23 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:14:53 - INFO - Req!!!
+3.4.2022, 16:14:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:34 - INFO - Req!!!
+3.4.2022, 16:24:35 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:38 - INFO - Req!!!
+3.4.2022, 16:24:38 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:38 - INFO - Req!!!
+3.4.2022, 16:24:38 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:43 - INFO - Req!!!
+3.4.2022, 16:24:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:43 - INFO - Req!!!
+3.4.2022, 16:24:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:48 - INFO - Req!!!
+3.4.2022, 16:24:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:48 - INFO - Req!!!
+3.4.2022, 16:24:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:55 - INFO - Req!!!
+3.4.2022, 16:24:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:24:56 - INFO - Req!!!
+3.4.2022, 16:24:56 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:10 - INFO - Req!!!
+3.4.2022, 16:25:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:22 - INFO - Req!!!
+3.4.2022, 16:25:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:22 - INFO - Req!!!
+3.4.2022, 16:25:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:24 - INFO - Req!!!
+3.4.2022, 16:25:24 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:24 - INFO - Req!!!
+3.4.2022, 16:25:24 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:27 - INFO - Req!!!
+3.4.2022, 16:25:27 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:28 - INFO - Req!!!
+3.4.2022, 16:25:28 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:30 - INFO - Req!!!
+3.4.2022, 16:25:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:25:41 - INFO - Req!!!
+3.4.2022, 16:25:41 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:26:46 - INFO - Req!!!
+3.4.2022, 16:26:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:27:06 - INFO - Req!!!
+3.4.2022, 16:27:06 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:27:07 - INFO - Req!!!
+3.4.2022, 16:27:07 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:29:22 - INFO - Req!!!
+3.4.2022, 16:29:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:29:22 - INFO - Req!!!
+3.4.2022, 16:29:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:29:43 - INFO - Req!!!
+3.4.2022, 16:29:43 - DEBUG - criteria after filter :>> | {"destination":"canda","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:29:43 - INFO - Req!!!
+3.4.2022, 16:29:43 - DEBUG - criteria after filter :>> | {"destination":"canda","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:30:10 - INFO - Req!!!
+3.4.2022, 16:30:10 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:36:15 - INFO - Req!!!
+3.4.2022, 16:36:15 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:36:15 - INFO - Req!!!
+3.4.2022, 16:36:15 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:01 - INFO - Req!!!
+3.4.2022, 16:37:01 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:02 - INFO - Req!!!
+3.4.2022, 16:37:02 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:06 - INFO - Req!!!
+3.4.2022, 16:37:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:06 - INFO - Req!!!
+3.4.2022, 16:37:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:17 - INFO - Req!!!
+3.4.2022, 16:37:17 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:17 - INFO - Req!!!
+3.4.2022, 16:37:17 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:21 - INFO - Req!!!
+3.4.2022, 16:37:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:21 - INFO - Req!!!
+3.4.2022, 16:37:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:36 - INFO - Req!!!
+3.4.2022, 16:37:36 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 16:37:37 - INFO - Req!!!
+3.4.2022, 16:37:37 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 18:18:06 - INFO - Req!!!
+3.4.2022, 18:18:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 18:19:57 - DEBUG - auth.service - login with username: ben
+3.4.2022, 19:20:48 - INFO - Req!!!
+3.4.2022, 19:20:48 - INFO - Req from: ben
+3.4.2022, 19:20:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:20:49 - INFO - Req!!!
+3.4.2022, 19:20:49 - INFO - Req from: ben
+3.4.2022, 19:20:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:20:55 - INFO - Req!!!
+3.4.2022, 19:20:55 - INFO - Req from: ben
+3.4.2022, 19:20:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer"]}
+3.4.2022, 19:26:05 - INFO - Req!!!
+3.4.2022, 19:26:05 - INFO - Req from: ben
+3.4.2022, 19:26:05 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool"]}
+3.4.2022, 19:26:11 - INFO - Req!!!
+3.4.2022, 19:26:11 - INFO - Req from: ben
+3.4.2022, 19:26:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:26:11 - INFO - Req!!!
+3.4.2022, 19:26:11 - INFO - Req from: ben
+3.4.2022, 19:26:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:26:18 - INFO - Req!!!
+3.4.2022, 19:26:18 - INFO - Req from: ben
+3.4.2022, 19:26:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 19:26:20 - INFO - Req!!!
+3.4.2022, 19:26:20 - INFO - Req from: ben
+3.4.2022, 19:26:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer"]}
+3.4.2022, 19:26:22 - INFO - Req!!!
+3.4.2022, 19:26:22 - INFO - Req from: ben
+3.4.2022, 19:26:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer","Gym"]}
+3.4.2022, 19:47:02 - INFO - Req!!!
+3.4.2022, 19:47:02 - INFO - Req from: ben
+3.4.2022, 19:47:02 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer"]}
+3.4.2022, 19:47:04 - INFO - Req!!!
+3.4.2022, 19:47:04 - INFO - Req from: ben
+3.4.2022, 19:47:04 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 19:47:05 - INFO - Req!!!
+3.4.2022, 19:47:05 - INFO - Req from: ben
+3.4.2022, 19:47:05 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Gym"]}
+3.4.2022, 19:47:34 - INFO - Req!!!
+3.4.2022, 19:47:34 - INFO - Req from: ben
+3.4.2022, 19:47:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:47:34 - INFO - Req!!!
+3.4.2022, 19:47:34 - INFO - Req from: ben
+3.4.2022, 19:47:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:47:40 - INFO - Req!!!
+3.4.2022, 19:47:40 - INFO - Req from: ben
+3.4.2022, 19:47:40 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 19:47:41 - INFO - Req!!!
+3.4.2022, 19:47:41 - INFO - Req from: ben
+3.4.2022, 19:47:41 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 19:47:42 - INFO - Req!!!
+3.4.2022, 19:47:42 - INFO - Req from: ben
+3.4.2022, 19:47:42 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 19:47:43 - INFO - Req!!!
+3.4.2022, 19:47:43 - INFO - Req from: ben
+3.4.2022, 19:47:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 19:47:44 - INFO - Req!!!
+3.4.2022, 19:47:44 - INFO - Req from: ben
+3.4.2022, 19:47:44 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer","Pool"]}
+3.4.2022, 19:47:45 - INFO - Req!!!
+3.4.2022, 19:47:45 - INFO - Req from: ben
+3.4.2022, 19:47:45 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer","Pool","Elevator"]}
+3.4.2022, 19:49:38 - INFO - Req!!!
+3.4.2022, 19:49:38 - INFO - Req from: ben
+3.4.2022, 19:49:38 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 19:49:40 - INFO - Req!!!
+3.4.2022, 19:49:40 - INFO - Req from: ben
+3.4.2022, 19:49:40 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator"]}
+3.4.2022, 19:49:53 - INFO - Req!!!
+3.4.2022, 19:49:53 - INFO - Req from: ben
+3.4.2022, 19:49:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Elevator"]}
+3.4.2022, 19:49:55 - INFO - Req!!!
+3.4.2022, 19:49:55 - INFO - Req from: ben
+3.4.2022, 19:49:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Elevator","Pool"]}
+3.4.2022, 19:50:09 - INFO - Req!!!
+3.4.2022, 19:50:09 - INFO - Req from: ben
+3.4.2022, 19:50:09 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen"]}
+3.4.2022, 19:50:11 - INFO - Req!!!
+3.4.2022, 19:50:11 - INFO - Req from: ben
+3.4.2022, 19:50:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen","Air conditioning"]}
+3.4.2022, 19:50:12 - INFO - Req!!!
+3.4.2022, 19:50:12 - INFO - Req from: ben
+3.4.2022, 19:50:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen"]}
+3.4.2022, 19:50:14 - INFO - Req!!!
+3.4.2022, 19:50:14 - INFO - Req from: ben
+3.4.2022, 19:50:14 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen","Air conditioning"]}
+3.4.2022, 19:50:26 - INFO - Req!!!
+3.4.2022, 19:50:26 - INFO - Req from: ben
+3.4.2022, 19:50:26 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:50:27 - INFO - Req!!!
+3.4.2022, 19:50:27 - INFO - Req from: ben
+3.4.2022, 19:50:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:50:55 - INFO - Req!!!
+3.4.2022, 19:50:55 - INFO - Req from: ben
+3.4.2022, 19:50:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:50:56 - INFO - Req!!!
+3.4.2022, 19:50:56 - INFO - Req from: ben
+3.4.2022, 19:50:56 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:51:00 - INFO - Req!!!
+3.4.2022, 19:51:00 - INFO - Req from: ben
+3.4.2022, 19:51:00 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 19:51:01 - INFO - Req!!!
+3.4.2022, 19:51:01 - INFO - Req from: ben
+3.4.2022, 19:51:02 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV"]}
+3.4.2022, 19:51:21 - INFO - Req!!!
+3.4.2022, 19:51:21 - INFO - Req from: ben
+3.4.2022, 19:51:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Wifi"]}
+3.4.2022, 19:51:24 - INFO - Req!!!
+3.4.2022, 19:51:24 - INFO - Req from: ben
+3.4.2022, 19:51:24 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Wifi","Kitchen"]}
+3.4.2022, 19:51:26 - INFO - Req!!!
+3.4.2022, 19:51:26 - INFO - Req from: ben
+3.4.2022, 19:51:26 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning"]}
+3.4.2022, 19:52:04 - INFO - Req!!!
+3.4.2022, 19:52:04 - INFO - Req from: ben
+3.4.2022, 19:52:04 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 19:52:06 - INFO - Req!!!
+3.4.2022, 19:52:06 - INFO - Req from: ben
+3.4.2022, 19:52:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Air conditioning"]}
+3.4.2022, 19:52:15 - INFO - Req!!!
+3.4.2022, 19:52:15 - INFO - Req from: ben
+3.4.2022, 19:52:15 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 19:52:17 - INFO - Req!!!
+3.4.2022, 19:52:17 - INFO - Req from: ben
+3.4.2022, 19:52:17 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 19:52:18 - INFO - Req!!!
+3.4.2022, 19:52:18 - INFO - Req from: ben
+3.4.2022, 19:52:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 19:52:20 - INFO - Req!!!
+3.4.2022, 19:52:20 - INFO - Req from: ben
+3.4.2022, 19:52:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 19:52:22 - INFO - Req!!!
+3.4.2022, 19:52:22 - INFO - Req from: ben
+3.4.2022, 19:52:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 19:52:23 - INFO - Req!!!
+3.4.2022, 19:52:23 - INFO - Req from: ben
+3.4.2022, 19:52:23 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 19:52:24 - INFO - Req!!!
+3.4.2022, 19:52:24 - INFO - Req from: ben
+3.4.2022, 19:52:24 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 19:52:25 - INFO - Req!!!
+3.4.2022, 19:52:25 - INFO - Req from: ben
+3.4.2022, 19:52:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:52:25 - INFO - Req!!!
+3.4.2022, 19:52:25 - INFO - Req from: ben
+3.4.2022, 19:52:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen"]}
+3.4.2022, 19:52:27 - INFO - Req!!!
+3.4.2022, 19:52:27 - INFO - Req from: ben
+3.4.2022, 19:52:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen","Air conditioning"]}
+3.4.2022, 19:52:28 - INFO - Req!!!
+3.4.2022, 19:52:28 - INFO - Req from: ben
+3.4.2022, 19:52:28 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen","Air conditioning","Free canellation"]}
+3.4.2022, 19:52:29 - INFO - Req!!!
+3.4.2022, 19:52:29 - INFO - Req from: ben
+3.4.2022, 19:52:29 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen","Air conditioning"]}
+3.4.2022, 19:52:31 - INFO - Req!!!
+3.4.2022, 19:52:31 - INFO - Req from: ben
+3.4.2022, 19:52:31 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Kitchen"]}
+3.4.2022, 19:52:32 - INFO - Req!!!
+3.4.2022, 19:52:32 - INFO - Req from: ben
+3.4.2022, 19:52:32 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 19:58:30 - INFO - Req!!!
+3.4.2022, 19:58:30 - INFO - Req from: ben
+3.4.2022, 19:58:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 19:58:32 - INFO - Req!!!
+3.4.2022, 19:58:32 - INFO - Req from: ben
+3.4.2022, 19:58:32 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV"]}
+3.4.2022, 19:58:34 - INFO - Req!!!
+3.4.2022, 19:58:34 - INFO - Req from: ben
+3.4.2022, 19:58:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator"]}
+3.4.2022, 19:58:37 - INFO - Req!!!
+3.4.2022, 19:58:37 - INFO - Req from: ben
+3.4.2022, 19:58:37 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV"]}
+3.4.2022, 19:58:42 - INFO - Req!!!
+3.4.2022, 19:58:42 - INFO - Req from: ben
+3.4.2022, 19:58:42 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 19:58:44 - INFO - Req!!!
+3.4.2022, 19:58:44 - INFO - Req from: ben
+3.4.2022, 19:58:44 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer"]}
+3.4.2022, 19:58:44 - INFO - Req!!!
+3.4.2022, 19:58:44 - INFO - Req from: ben
+3.4.2022, 19:58:44 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer","Gym"]}
+3.4.2022, 19:58:45 - INFO - Req!!!
+3.4.2022, 19:58:45 - INFO - Req from: ben
+3.4.2022, 19:58:45 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer","Gym","Free canellation"]}
+3.4.2022, 19:58:46 - INFO - Req!!!
+3.4.2022, 19:58:46 - INFO - Req from: ben
+3.4.2022, 19:58:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer","Gym","Free canellation","Air conditioning"]}
+3.4.2022, 19:58:47 - INFO - Req!!!
+3.4.2022, 19:58:47 - INFO - Req from: ben
+3.4.2022, 19:58:47 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer","Gym","Free canellation"]}
+3.4.2022, 19:58:50 - INFO - Req!!!
+3.4.2022, 19:58:50 - INFO - Req from: ben
+3.4.2022, 19:58:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Dryer","Gym"]}
+3.4.2022, 20:38:42 - INFO - Req!!!
+3.4.2022, 20:38:42 - INFO - Req from: ben
+3.4.2022, 20:38:42 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:38:44 - INFO - Req!!!
+3.4.2022, 20:38:44 - INFO - Req from: ben
+3.4.2022, 20:38:44 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:38:47 - INFO - Req!!!
+3.4.2022, 20:38:47 - INFO - Req from: ben
+3.4.2022, 20:38:47 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 20:38:49 - INFO - Req!!!
+3.4.2022, 20:38:49 - INFO - Req from: ben
+3.4.2022, 20:38:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 20:38:50 - INFO - Req!!!
+3.4.2022, 20:38:50 - INFO - Req from: ben
+3.4.2022, 20:38:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Kitchen"]}
+3.4.2022, 20:38:52 - INFO - Req!!!
+3.4.2022, 20:38:52 - INFO - Req from: ben
+3.4.2022, 20:38:52 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Kitchen","Gym"]}
+3.4.2022, 20:38:53 - INFO - Req!!!
+3.4.2022, 20:38:53 - INFO - Req from: ben
+3.4.2022, 20:38:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Kitchen","Gym","Dryer"]}
+3.4.2022, 20:38:55 - INFO - Req!!!
+3.4.2022, 20:38:55 - INFO - Req from: ben
+3.4.2022, 20:38:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Kitchen","Gym","Dryer","Pool"]}
+3.4.2022, 20:39:30 - INFO - Req!!!
+3.4.2022, 20:39:30 - INFO - Req from: ben
+3.4.2022, 20:39:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:39:31 - INFO - Req!!!
+3.4.2022, 20:39:31 - INFO - Req from: ben
+3.4.2022, 20:39:31 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:39:34 - INFO - Req!!!
+3.4.2022, 20:39:34 - INFO - Req from: ben
+3.4.2022, 20:39:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer"]}
+3.4.2022, 20:39:35 - INFO - Req!!!
+3.4.2022, 20:39:35 - INFO - Req from: ben
+3.4.2022, 20:39:35 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Gym"]}
+3.4.2022, 20:39:36 - INFO - Req!!!
+3.4.2022, 20:39:36 - INFO - Req from: ben
+3.4.2022, 20:39:36 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Gym","Free canellation"]}
+3.4.2022, 20:39:37 - INFO - Req!!!
+3.4.2022, 20:39:37 - INFO - Req from: ben
+3.4.2022, 20:39:37 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Gym","Free canellation","Air conditioning"]}
+3.4.2022, 20:42:43 - INFO - Req!!!
+3.4.2022, 20:42:43 - INFO - Req from: ben
+3.4.2022, 20:42:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:42:45 - INFO - Req!!!
+3.4.2022, 20:42:45 - INFO - Req from: ben
+3.4.2022, 20:42:45 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:42:48 - INFO - Req!!!
+3.4.2022, 20:42:48 - INFO - Req from: ben
+3.4.2022, 20:42:48 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 20:42:50 - INFO - Req!!!
+3.4.2022, 20:42:50 - INFO - Req from: ben
+3.4.2022, 20:42:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Elevator"]}
+3.4.2022, 20:43:38 - INFO - Req!!!
+3.4.2022, 20:43:38 - INFO - Req from: ben
+3.4.2022, 20:43:39 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:43:39 - INFO - Req!!!
+3.4.2022, 20:43:39 - INFO - Req from: ben
+3.4.2022, 20:43:39 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:43:44 - INFO - Req!!!
+3.4.2022, 20:43:44 - INFO - Req from: ben
+3.4.2022, 20:43:44 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 20:44:01 - INFO - Req!!!
+3.4.2022, 20:44:01 - INFO - Req from: ben
+3.4.2022, 20:44:01 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 20:44:04 - INFO - Req!!!
+3.4.2022, 20:44:04 - INFO - Req from: ben
+3.4.2022, 20:44:04 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:44:06 - INFO - Req!!!
+3.4.2022, 20:44:06 - INFO - Req from: ben
+3.4.2022, 20:44:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:44:45 - INFO - Req!!!
+3.4.2022, 20:44:45 - INFO - Req from: ben
+3.4.2022, 20:44:45 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:44:46 - INFO - Req!!!
+3.4.2022, 20:44:46 - INFO - Req from: ben
+3.4.2022, 20:44:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:44:49 - INFO - Req!!!
+3.4.2022, 20:44:49 - INFO - Req from: ben
+3.4.2022, 20:44:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+3.4.2022, 20:44:51 - INFO - Req!!!
+3.4.2022, 20:44:51 - INFO - Req from: ben
+3.4.2022, 20:44:51 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation"]}
+3.4.2022, 20:44:53 - INFO - Req!!!
+3.4.2022, 20:44:53 - INFO - Req from: ben
+3.4.2022, 20:44:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation","Air conditioning"]}
+3.4.2022, 20:44:53 - INFO - Req!!!
+3.4.2022, 20:44:53 - INFO - Req from: ben
+3.4.2022, 20:44:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation","Air conditioning","Kitchen"]}
+3.4.2022, 20:44:55 - INFO - Req!!!
+3.4.2022, 20:44:55 - INFO - Req from: ben
+3.4.2022, 20:44:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation","Air conditioning","Kitchen","Dryer"]}
+3.4.2022, 20:44:57 - INFO - Req!!!
+3.4.2022, 20:44:57 - INFO - Req from: ben
+3.4.2022, 20:44:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation","Air conditioning","Kitchen"]}
+3.4.2022, 20:44:58 - INFO - Req!!!
+3.4.2022, 20:44:58 - INFO - Req from: ben
+3.4.2022, 20:44:58 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation","Air conditioning"]}
+3.4.2022, 20:44:59 - INFO - Req!!!
+3.4.2022, 20:44:59 - INFO - Req from: ben
+3.4.2022, 20:44:59 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym","Free canellation"]}
+3.4.2022, 20:45:00 - INFO - Req!!!
+3.4.2022, 20:45:00 - INFO - Req from: ben
+3.4.2022, 20:45:00 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+3.4.2022, 20:45:02 - INFO - Req!!!
+3.4.2022, 20:45:02 - INFO - Req from: ben
+3.4.2022, 20:45:02 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:45:06 - INFO - Req!!!
+3.4.2022, 20:45:06 - INFO - Req from: ben
+3.4.2022, 20:45:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 20:45:06 - INFO - Req!!!
+3.4.2022, 20:45:06 - INFO - Req from: ben
+3.4.2022, 20:45:06 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 20:45:07 - INFO - Req!!!
+3.4.2022, 20:45:07 - INFO - Req from: ben
+3.4.2022, 20:45:07 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 20:45:08 - INFO - Req!!!
+3.4.2022, 20:45:08 - INFO - Req from: ben
+3.4.2022, 20:45:08 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 20:45:12 - INFO - Req!!!
+3.4.2022, 20:45:12 - INFO - Req from: ben
+3.4.2022, 20:45:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 20:45:12 - INFO - Req!!!
+3.4.2022, 20:45:12 - INFO - Req from: ben
+3.4.2022, 20:45:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 20:45:18 - INFO - Req!!!
+3.4.2022, 20:45:18 - INFO - Req from: ben
+3.4.2022, 20:45:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 20:45:25 - INFO - Req!!!
+3.4.2022, 20:45:25 - INFO - Req from: ben
+3.4.2022, 20:45:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 20:45:27 - INFO - Req!!!
+3.4.2022, 20:45:27 - INFO - Req from: ben
+3.4.2022, 20:45:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 20:45:27 - INFO - Req!!!
+3.4.2022, 20:45:27 - INFO - Req from: ben
+3.4.2022, 20:45:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 20:45:28 - INFO - Req!!!
+3.4.2022, 20:45:28 - INFO - Req from: ben
+3.4.2022, 20:45:28 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer","Pool"]}
+3.4.2022, 20:45:29 - INFO - Req!!!
+3.4.2022, 20:45:29 - INFO - Req from: ben
+3.4.2022, 20:45:29 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer","Pool","Elevator"]}
+3.4.2022, 20:45:34 - INFO - Req!!!
+3.4.2022, 20:45:34 - INFO - Req from: ben
+3.4.2022, 20:45:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer","Pool"]}
+3.4.2022, 20:45:37 - INFO - Req!!!
+3.4.2022, 20:45:37 - INFO - Req from: ben
+3.4.2022, 20:45:37 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 20:45:41 - INFO - Req!!!
+3.4.2022, 20:45:41 - INFO - Req from: ben
+3.4.2022, 20:45:41 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation","Gym"]}
+3.4.2022, 20:45:43 - INFO - Req!!!
+3.4.2022, 20:45:43 - INFO - Req from: ben
+3.4.2022, 20:45:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning","Free canellation"]}
+3.4.2022, 20:46:18 - INFO - Req!!!
+3.4.2022, 20:46:18 - INFO - Req from: ben
+3.4.2022, 20:46:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:46:18 - INFO - Req!!!
+3.4.2022, 20:46:18 - INFO - Req from: ben
+3.4.2022, 20:46:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:46:21 - INFO - Req!!!
+3.4.2022, 20:46:21 - INFO - Req from: ben
+3.4.2022, 20:46:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Elevator"]}
+3.4.2022, 20:47:49 - INFO - Req!!!
+3.4.2022, 20:47:49 - INFO - Req from: ben
+3.4.2022, 20:47:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:47:50 - INFO - Req!!!
+3.4.2022, 20:47:50 - INFO - Req from: ben
+3.4.2022, 20:47:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:48:19 - INFO - Req!!!
+3.4.2022, 20:48:19 - INFO - Req from: ben
+3.4.2022, 20:48:19 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 20:48:21 - INFO - Req!!!
+3.4.2022, 20:48:21 - INFO - Req from: ben
+3.4.2022, 20:48:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator"]}
+3.4.2022, 20:48:22 - INFO - Req!!!
+3.4.2022, 20:48:22 - INFO - Req from: ben
+3.4.2022, 20:48:22 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV"]}
+3.4.2022, 20:48:27 - INFO - Req!!!
+3.4.2022, 20:48:27 - INFO - Req from: ben
+3.4.2022, 20:48:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV","Pool"]}
+3.4.2022, 20:48:31 - INFO - Req!!!
+3.4.2022, 20:48:31 - INFO - Req from: ben
+3.4.2022, 20:48:31 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV","Pool","Dryer"]}
+3.4.2022, 20:48:33 - INFO - Req!!!
+3.4.2022, 20:48:33 - INFO - Req from: ben
+3.4.2022, 20:48:33 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV","Pool","Dryer","Free canellation"]}
+3.4.2022, 20:48:34 - INFO - Req!!!
+3.4.2022, 20:48:34 - INFO - Req from: ben
+3.4.2022, 20:48:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV","Pool","Dryer","Free canellation","Wifi"]}
+3.4.2022, 20:48:35 - INFO - Req!!!
+3.4.2022, 20:48:35 - INFO - Req from: ben
+3.4.2022, 20:48:35 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Elevator","TV","Pool","Dryer","Free canellation","Wifi","Kitchen"]}
+3.4.2022, 20:49:23 - INFO - Req!!!
+3.4.2022, 20:49:23 - INFO - Req from: ben
+3.4.2022, 20:49:23 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:25 - INFO - Req!!!
+3.4.2022, 20:49:25 - INFO - Req from: ben
+3.4.2022, 20:49:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:49:25 - INFO - Req!!!
+3.4.2022, 20:49:25 - INFO - Req from: ben
+3.4.2022, 20:49:25 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:26 - INFO - Req!!!
+3.4.2022, 20:49:26 - INFO - Req from: ben
+3.4.2022, 20:49:26 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:49:27 - INFO - Req!!!
+3.4.2022, 20:49:27 - INFO - Req from: ben
+3.4.2022, 20:49:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:28 - INFO - Req!!!
+3.4.2022, 20:49:28 - INFO - Req from: ben
+3.4.2022, 20:49:28 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:49:29 - INFO - Req!!!
+3.4.2022, 20:49:29 - INFO - Req from: ben
+3.4.2022, 20:49:29 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:29 - INFO - Req!!!
+3.4.2022, 20:49:29 - INFO - Req from: ben
+3.4.2022, 20:49:29 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:49:30 - INFO - Req!!!
+3.4.2022, 20:49:30 - INFO - Req from: ben
+3.4.2022, 20:49:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:31 - INFO - Req!!!
+3.4.2022, 20:49:31 - INFO - Req from: ben
+3.4.2022, 20:49:31 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:49:32 - INFO - Req!!!
+3.4.2022, 20:49:32 - INFO - Req from: ben
+3.4.2022, 20:49:32 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+3.4.2022, 20:49:33 - INFO - Req!!!
+3.4.2022, 20:49:33 - INFO - Req from: ben
+3.4.2022, 20:49:33 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 20:55:49 - INFO - Req!!!
+3.4.2022, 20:55:49 - INFO - Req from: ben
+3.4.2022, 20:55:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 20:55:51 - INFO - Req!!!
+3.4.2022, 20:55:51 - INFO - Req from: ben
+3.4.2022, 20:55:51 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Elevator"]}
+3.4.2022, 20:55:52 - INFO - Req!!!
+3.4.2022, 20:55:52 - INFO - Req from: ben
+3.4.2022, 20:55:52 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Elevator","TV"]}
+3.4.2022, 20:55:54 - INFO - Req!!!
+3.4.2022, 20:55:54 - INFO - Req from: ben
+3.4.2022, 20:55:54 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Elevator","TV","Essentials"]}
+3.4.2022, 20:55:55 - INFO - Req!!!
+3.4.2022, 20:55:55 - INFO - Req from: ben
+3.4.2022, 20:55:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Elevator","TV","Essentials","Dryer"]}
+3.4.2022, 20:56:09 - INFO - Req!!!
+3.4.2022, 20:56:09 - INFO - Req from: ben
+3.4.2022, 20:56:09 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 20:56:10 - INFO - Req!!!
+3.4.2022, 20:56:10 - INFO - Req from: ben
+3.4.2022, 20:56:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV"]}
+3.4.2022, 20:56:12 - INFO - Req!!!
+3.4.2022, 20:56:12 - INFO - Req from: ben
+3.4.2022, 20:56:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator"]}
+3.4.2022, 20:56:13 - INFO - Req!!!
+3.4.2022, 20:56:13 - INFO - Req from: ben
+3.4.2022, 20:56:13 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator","Pool"]}
+3.4.2022, 20:56:14 - INFO - Req!!!
+3.4.2022, 20:56:14 - INFO - Req from: ben
+3.4.2022, 20:56:14 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator","Pool","Air conditioning"]}
+3.4.2022, 20:56:15 - INFO - Req!!!
+3.4.2022, 20:56:15 - INFO - Req from: ben
+3.4.2022, 20:56:15 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator","Pool","Air conditioning","Free canellation"]}
+3.4.2022, 20:56:17 - INFO - Req!!!
+3.4.2022, 20:56:17 - INFO - Req from: ben
+3.4.2022, 20:56:17 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator","Pool","Air conditioning"]}
+3.4.2022, 20:56:18 - INFO - Req!!!
+3.4.2022, 20:56:18 - INFO - Req from: ben
+3.4.2022, 20:56:18 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator","Pool"]}
+3.4.2022, 20:56:19 - INFO - Req!!!
+3.4.2022, 20:56:19 - INFO - Req from: ben
+3.4.2022, 20:56:19 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV","Elevator"]}
+3.4.2022, 20:56:20 - INFO - Req!!!
+3.4.2022, 20:56:20 - INFO - Req from: ben
+3.4.2022, 20:56:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","TV"]}
+3.4.2022, 20:56:20 - INFO - Req!!!
+3.4.2022, 20:56:20 - INFO - Req from: ben
+3.4.2022, 20:56:20 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+3.4.2022, 20:56:21 - INFO - Req!!!
+3.4.2022, 20:56:21 - INFO - Req from: ben
+3.4.2022, 20:56:21 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 21:59:50 - INFO - Req!!!
+3.4.2022, 21:59:50 - INFO - Req from: ben
+3.4.2022, 21:59:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 21:59:51 - INFO - Req!!!
+3.4.2022, 21:59:51 - INFO - Req from: ben
+3.4.2022, 21:59:51 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:02:43 - INFO - Req!!!
+3.4.2022, 22:02:43 - INFO - Req from: ben
+3.4.2022, 22:02:43 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:08:02 - INFO - Req!!!
+3.4.2022, 22:08:55 - INFO - Server is running on port: 3030
+3.4.2022, 22:08:58 - INFO - Req!!!
+3.4.2022, 22:10:07 - INFO - Server is running on port: 3030
+3.4.2022, 22:10:11 - INFO - Req!!!
+3.4.2022, 22:22:33 - INFO - Server is running on port: 3030
+3.4.2022, 22:22:47 - DEBUG - auth.service - login with username: 10099253
+3.4.2022, 22:22:56 - INFO - Req!!!
+3.4.2022, 22:22:56 - INFO - Req from: Ashley
+3.4.2022, 22:29:32 - INFO - Server is running on port: 3030
+3.4.2022, 22:29:44 - DEBUG - auth.service - login with username: 10099253
+3.4.2022, 22:29:59 - INFO - Req!!!
+3.4.2022, 22:29:59 - INFO - Req from: Ashley
+3.4.2022, 22:31:30 - INFO - Server is running on port: 3030
+3.4.2022, 22:31:41 - DEBUG - auth.service - login with username: 10099253
+3.4.2022, 22:31:54 - INFO - Req!!!
+3.4.2022, 22:31:54 - INFO - Req from: Ashley
+3.4.2022, 22:35:10 - INFO - Req!!!
+3.4.2022, 22:35:40 - INFO - Server is running on port: 3030
+3.4.2022, 22:35:57 - INFO - Server is running on port: 3030
+=======
 4/3/2022, 8:31:38 PM - INFO - Server is running on port: 3030
 4/3/2022, 8:31:49 PM - INFO - Req!!!
 4/3/2022, 8:31:49 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
@@ -3734,6 +4477,7 @@
 4/3/2022, 10:34:14 PM - INFO - Server is running on port: 3030
 4/3/2022, 10:34:29 PM - INFO - Req!!!
 4/3/2022, 10:35:06 PM - INFO - Server is running on port: 3030
+<<<<<<< HEAD
 4/3/2022, 10:41:28 PM - INFO - Req!!!
 4/3/2022, 10:42:27 PM - INFO - Req!!!
 4/3/2022, 10:42:27 PM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
@@ -3958,3 +4702,712 @@
 4/4/2022, 3:52:09 AM - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
 4/4/2022, 4:58:12 AM - INFO - Req!!!
 4/4/2022, 4:58:12 AM - INFO - Req from: yarden
+=======
+>>>>>>> 479dfa6a3291f9d7164a7f6376049ad04ec5e2c4
+3.4.2022, 22:36:30 - INFO - Server is running on port: 3030
+3.4.2022, 22:46:21 - DEBUG - auth.service - login with username: 10099253
+3.4.2022, 22:46:29 - INFO - Req!!!
+3.4.2022, 22:46:29 - INFO - Req from: Ashley
+3.4.2022, 22:48:11 - INFO - Req!!!
+3.4.2022, 22:48:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:48:18 - INFO - Req!!!
+3.4.2022, 22:48:18 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:48:18 - INFO - Req!!!
+3.4.2022, 22:48:18 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:48:27 - INFO - Req!!!
+3.4.2022, 22:48:27 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:49:09 - INFO - Req!!!
+3.4.2022, 22:49:09 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:49:12 - INFO - Req!!!
+3.4.2022, 22:49:12 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:49:13 - INFO - Req!!!
+3.4.2022, 22:49:13 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:50:08 - INFO - Req!!!
+3.4.2022, 22:50:08 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:50:37 - INFO - Req!!!
+3.4.2022, 22:50:37 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:50:38 - INFO - Req!!!
+3.4.2022, 22:50:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 22:50:59 - INFO - Req!!!
+3.4.2022, 22:50:59 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 22:51:09 - INFO - Req!!!
+3.4.2022, 22:51:09 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 22:51:09 - INFO - Req!!!
+3.4.2022, 22:51:09 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 22:53:00 - INFO - Req!!!
+3.4.2022, 22:53:00 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning","Gym"]}
+3.4.2022, 22:53:01 - INFO - Req!!!
+3.4.2022, 22:53:01 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning","Gym","Free canellation"]}
+3.4.2022, 22:53:02 - INFO - Req!!!
+3.4.2022, 22:53:02 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning","Gym","Free canellation","Kitchen"]}
+3.4.2022, 22:53:03 - INFO - Req!!!
+3.4.2022, 22:53:03 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning","Gym","Free canellation"]}
+3.4.2022, 22:53:04 - INFO - Req!!!
+3.4.2022, 22:53:04 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning","Gym"]}
+3.4.2022, 22:53:05 - INFO - Req!!!
+3.4.2022, 22:53:05 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 22:53:05 - INFO - Req!!!
+3.4.2022, 22:53:05 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":[]}
+3.4.2022, 22:53:07 - INFO - Req!!!
+3.4.2022, 22:53:07 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi"]}
+3.4.2022, 22:53:07 - INFO - Req!!!
+3.4.2022, 22:53:07 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen"]}
+3.4.2022, 22:53:08 - INFO - Req!!!
+3.4.2022, 22:53:08 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning"]}
+3.4.2022, 22:53:08 - INFO - Req!!!
+3.4.2022, 22:53:08 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning","Free canellation"]}
+3.4.2022, 22:53:09 - INFO - Req!!!
+3.4.2022, 22:53:09 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning","Free canellation","Gym"]}
+3.4.2022, 22:53:10 - INFO - Req!!!
+3.4.2022, 22:53:10 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning","Free canellation","Gym","Dryer"]}
+3.4.2022, 22:53:11 - INFO - Req!!!
+3.4.2022, 22:53:11 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning","Free canellation","Gym"]}
+3.4.2022, 22:53:11 - INFO - Req!!!
+3.4.2022, 22:53:11 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning","Free canellation"]}
+3.4.2022, 22:53:12 - INFO - Req!!!
+3.4.2022, 22:53:12 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen","Air conditioning"]}
+3.4.2022, 22:53:13 - INFO - Req!!!
+3.4.2022, 22:53:13 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Kitchen"]}
+3.4.2022, 22:53:14 - INFO - Req!!!
+3.4.2022, 22:53:14 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi"]}
+3.4.2022, 22:53:15 - INFO - Req!!!
+3.4.2022, 22:53:15 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":[]}
+3.4.2022, 23:20:50 - INFO - Req!!!
+3.4.2022, 23:20:50 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer"]}
+3.4.2022, 23:21:07 - INFO - Req!!!
+3.4.2022, 23:21:07 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym"]}
+3.4.2022, 23:21:09 - INFO - Req!!!
+3.4.2022, 23:21:09 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Pool"]}
+3.4.2022, 23:21:10 - INFO - Req!!!
+3.4.2022, 23:21:10 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Pool","Free canellation"]}
+3.4.2022, 23:21:11 - INFO - Req!!!
+3.4.2022, 23:21:11 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Pool","Free canellation","Air conditioning"]}
+3.4.2022, 23:21:14 - INFO - Req!!!
+3.4.2022, 23:21:14 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Pool","Free canellation","Air conditioning","Kitchen"]}
+3.4.2022, 23:27:41 - INFO - Req!!!
+3.4.2022, 23:27:41 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Pool"]}
+3.4.2022, 23:27:42 - INFO - Req!!!
+3.4.2022, 23:27:42 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":[]}
+3.4.2022, 23:27:43 - INFO - Req!!!
+3.4.2022, 23:27:43 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer"]}
+3.4.2022, 23:27:44 - INFO - Req!!!
+3.4.2022, 23:27:44 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym"]}
+3.4.2022, 23:27:44 - INFO - Req!!!
+3.4.2022, 23:27:44 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Free canellation"]}
+3.4.2022, 23:27:45 - INFO - Req!!!
+3.4.2022, 23:27:45 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Free canellation","Air conditioning"]}
+3.4.2022, 23:27:46 - INFO - Req!!!
+3.4.2022, 23:27:46 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Free canellation","Air conditioning","Kitchen"]}
+3.4.2022, 23:27:47 - INFO - Req!!!
+3.4.2022, 23:27:47 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Free canellation","Air conditioning","Kitchen","Wifi"]}
+3.4.2022, 23:27:49 - INFO - Req!!!
+3.4.2022, 23:27:49 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Free canellation","Kitchen","Wifi"]}
+3.4.2022, 23:27:50 - INFO - Req!!!
+3.4.2022, 23:27:50 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Gym","Kitchen","Wifi"]}
+3.4.2022, 23:27:51 - INFO - Req!!!
+3.4.2022, 23:27:51 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Dryer","Kitchen","Wifi"]}
+3.4.2022, 23:27:51 - INFO - Req!!!
+3.4.2022, 23:27:51 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Kitchen","Wifi"]}
+3.4.2022, 23:27:52 - INFO - Req!!!
+3.4.2022, 23:27:52 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Kitchen","Wifi","Air conditioning"]}
+3.4.2022, 23:27:52 - INFO - Req!!!
+3.4.2022, 23:27:52 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi","Air conditioning"]}
+3.4.2022, 23:27:53 - INFO - Req!!!
+3.4.2022, 23:27:53 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Wifi"]}
+3.4.2022, 23:27:53 - INFO - Req!!!
+3.4.2022, 23:27:53 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":[]}
+3.4.2022, 23:27:54 - INFO - Req!!!
+3.4.2022, 23:27:54 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Kitchen"]}
+3.4.2022, 23:27:54 - INFO - Req!!!
+3.4.2022, 23:27:54 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Kitchen","Air conditioning"]}
+3.4.2022, 23:27:55 - INFO - Req!!!
+3.4.2022, 23:27:55 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+3.4.2022, 23:27:55 - INFO - Req!!!
+3.4.2022, 23:27:55 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":31,"maxPrice":102,"roomType":[],"amenities":[]}
+3.4.2022, 23:45:38 - INFO - Req!!!
+3.4.2022, 23:45:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:45:39 - INFO - Req!!!
+3.4.2022, 23:45:39 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:46:28 - INFO - Req!!!
+3.4.2022, 23:46:28 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+3.4.2022, 23:46:29 - INFO - Req!!!
+3.4.2022, 23:46:29 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+3.4.2022, 23:48:06 - INFO - Req!!!
+3.4.2022, 23:48:06 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:48:08 - INFO - Req!!!
+3.4.2022, 23:48:08 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:49:38 - INFO - Req!!!
+3.4.2022, 23:49:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 23:49:38 - INFO - Req!!!
+3.4.2022, 23:49:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+3.4.2022, 23:56:41 - INFO - Req!!!
+3.4.2022, 23:56:41 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:56:42 - INFO - Req!!!
+3.4.2022, 23:56:42 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:56:47 - INFO - Req!!!
+3.4.2022, 23:56:47 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+3.4.2022, 23:56:47 - INFO - Req!!!
+3.4.2022, 23:56:47 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+3.4.2022, 23:56:53 - INFO - Req!!!
+3.4.2022, 23:56:53 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:56:54 - INFO - Req!!!
+3.4.2022, 23:56:54 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+3.4.2022, 23:58:33 - INFO - Req!!!
+3.4.2022, 23:58:33 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Free canellation"]}
+3.4.2022, 23:58:36 - INFO - Req!!!
+3.4.2022, 23:58:36 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Free canellation","Gym"]}
+3.4.2022, 23:59:33 - INFO - Req!!!
+3.4.2022, 23:59:33 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":["Free canellation","Gym"]}
+3.4.2022, 23:59:33 - INFO - Req!!!
+3.4.2022, 23:59:33 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":["Free canellation","Gym"]}
+4.4.2022, 0:00:38 - INFO - Req!!!
+4.4.2022, 0:00:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:00:38 - INFO - Req!!!
+4.4.2022, 0:00:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:00:44 - INFO - Req!!!
+4.4.2022, 0:00:44 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:00:44 - INFO - Req!!!
+4.4.2022, 0:00:44 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:00:49 - INFO - Req!!!
+4.4.2022, 0:00:49 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:00:50 - INFO - Req!!!
+4.4.2022, 0:00:50 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:00:54 - INFO - Req!!!
+4.4.2022, 0:00:54 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+4.4.2022, 0:00:54 - INFO - Req!!!
+4.4.2022, 0:00:54 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+4.4.2022, 0:01:46 - INFO - Req!!!
+4.4.2022, 0:01:46 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:01:47 - INFO - Req!!!
+4.4.2022, 0:01:47 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:01:50 - INFO - Req!!!
+4.4.2022, 0:01:50 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:01:52 - INFO - Req!!!
+4.4.2022, 0:01:52 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:01:55 - INFO - Req!!!
+4.4.2022, 0:01:55 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:01:56 - INFO - Req!!!
+4.4.2022, 0:01:56 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:01:59 - INFO - Req!!!
+4.4.2022, 0:01:59 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+4.4.2022, 0:01:59 - INFO - Req!!!
+4.4.2022, 0:01:59 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":[]}
+4.4.2022, 0:02:04 - INFO - Req!!!
+4.4.2022, 0:02:04 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:02:04 - INFO - Req!!!
+4.4.2022, 0:02:04 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:03:37 - INFO - Req!!!
+4.4.2022, 0:03:37 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:03:38 - INFO - Req!!!
+4.4.2022, 0:03:38 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:03:42 - INFO - Req!!!
+4.4.2022, 0:03:42 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:03:43 - INFO - Req!!!
+4.4.2022, 0:03:43 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:03:49 - INFO - Req!!!
+4.4.2022, 0:03:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:03:50 - INFO - Req!!!
+4.4.2022, 0:03:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:03:52 - INFO - Req!!!
+4.4.2022, 0:03:52 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:03:53 - INFO - Req!!!
+4.4.2022, 0:03:53 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:04:13 - INFO - Req!!!
+4.4.2022, 0:04:13 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:04:14 - INFO - Req!!!
+4.4.2022, 0:04:14 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:04:27 - INFO - Req!!!
+4.4.2022, 0:04:27 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:04:54 - INFO - Req!!!
+4.4.2022, 0:04:54 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:04:55 - INFO - Req!!!
+4.4.2022, 0:04:55 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:04:57 - INFO - Req!!!
+4.4.2022, 0:04:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:05:03 - INFO - Req!!!
+4.4.2022, 0:05:03 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:05:03 - INFO - Req!!!
+4.4.2022, 0:05:03 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:10:53 - INFO - Req!!!
+4.4.2022, 0:10:53 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:10:53 - INFO - Req!!!
+4.4.2022, 0:10:53 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:12:59 - INFO - Req!!!
+4.4.2022, 0:12:59 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:13:01 - INFO - Req!!!
+4.4.2022, 0:13:01 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:13:05 - INFO - Req!!!
+4.4.2022, 0:13:05 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:13:06 - INFO - Req!!!
+4.4.2022, 0:13:06 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:20:07 - INFO - Req!!!
+4.4.2022, 0:20:07 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:20:08 - INFO - Req!!!
+4.4.2022, 0:20:08 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:20:14 - INFO - Req!!!
+4.4.2022, 0:20:14 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:20:14 - INFO - Req!!!
+4.4.2022, 0:20:14 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:20:42 - INFO - Req!!!
+4.4.2022, 0:20:42 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:25:01 - INFO - Req!!!
+4.4.2022, 0:25:01 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:25:01 - INFO - Req!!!
+4.4.2022, 0:25:01 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:25:08 - INFO - Req!!!
+4.4.2022, 0:25:08 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt",true],"amenities":[]}
+4.4.2022, 0:25:08 - INFO - Req!!!
+4.4.2022, 0:25:08 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt",true],"amenities":[]}
+4.4.2022, 0:27:16 - INFO - Req!!!
+4.4.2022, 0:27:16 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 0:27:27 - INFO - Req!!!
+4.4.2022, 0:27:27 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:27:28 - INFO - Req!!!
+4.4.2022, 0:27:28 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:29:44 - INFO - Req!!!
+4.4.2022, 0:29:44 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:32:28 - INFO - Req!!!
+4.4.2022, 0:32:28 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:32:28 - INFO - Req!!!
+4.4.2022, 0:32:28 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:32:36 - INFO - Req!!!
+4.4.2022, 0:32:36 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":101,"maxPrice":300,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:32:37 - INFO - Req!!!
+4.4.2022, 0:32:37 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":101,"maxPrice":300,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:33:58 - INFO - Req!!!
+4.4.2022, 0:33:58 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:33:59 - INFO - Req!!!
+4.4.2022, 0:33:59 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:35:53 - INFO - Req!!!
+4.4.2022, 0:35:53 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:35:53 - INFO - Req!!!
+4.4.2022, 0:35:53 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 0:35:58 - INFO - Req!!!
+4.4.2022, 0:35:58 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":89,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 0:35:59 - INFO - Req!!!
+4.4.2022, 0:35:59 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":89,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 0:36:38 - INFO - Req!!!
+4.4.2022, 0:36:38 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 0:36:39 - INFO - Req!!!
+4.4.2022, 0:36:39 - DEBUG - criteria after filter :>> | {"destination":"canada","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 1:10:41 - INFO - Req!!!
+4.4.2022, 1:10:41 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt","Private room"],"amenities":[]}
+4.4.2022, 1:11:02 - INFO - Req!!!
+4.4.2022, 1:11:02 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:12:15 - DEBUG - auth.service - login with username: ben
+4.4.2022, 1:12:17 - INFO - Req!!!
+4.4.2022, 1:12:17 - INFO - Req from: ben
+4.4.2022, 1:12:17 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:12:18 - INFO - Req!!!
+4.4.2022, 1:12:18 - INFO - Req from: ben
+4.4.2022, 1:12:18 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:12:19 - INFO - Req!!!
+4.4.2022, 1:12:19 - INFO - Req from: ben
+4.4.2022, 1:12:19 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:18:01 - DEBUG - auth.service - login with username: ben
+4.4.2022, 1:26:27 - INFO - Req!!!
+4.4.2022, 1:26:27 - INFO - Req from: ben
+4.4.2022, 1:26:27 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:26:27 - INFO - Req!!!
+4.4.2022, 1:26:27 - INFO - Req from: ben
+4.4.2022, 1:26:28 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:35:21 - INFO - Req!!!
+4.4.2022, 1:35:21 - INFO - Req from: ben
+4.4.2022, 1:35:21 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:35:23 - INFO - Req!!!
+4.4.2022, 1:35:23 - INFO - Req from: ben
+4.4.2022, 1:35:23 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:35:25 - INFO - Req!!!
+4.4.2022, 1:35:25 - INFO - Req from: ben
+4.4.2022, 1:35:25 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV"]}
+4.4.2022, 1:35:26 - INFO - Req!!!
+4.4.2022, 1:35:26 - INFO - Req from: ben
+4.4.2022, 1:35:26 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV","Elevator"]}
+4.4.2022, 1:35:27 - INFO - Req!!!
+4.4.2022, 1:35:27 - INFO - Req from: ben
+4.4.2022, 1:35:27 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV","Elevator","Pool"]}
+4.4.2022, 1:35:27 - INFO - Req!!!
+4.4.2022, 1:35:27 - INFO - Req from: ben
+4.4.2022, 1:35:27 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV","Elevator","Pool","Gym"]}
+4.4.2022, 1:35:32 - INFO - Req!!!
+4.4.2022, 1:35:32 - INFO - Req from: ben
+4.4.2022, 1:35:32 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":["TV","Elevator","Pool","Gym"]}
+4.4.2022, 1:35:33 - INFO - Req!!!
+4.4.2022, 1:35:33 - INFO - Req from: ben
+4.4.2022, 1:35:33 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":["TV","Elevator","Pool","Gym"]}
+4.4.2022, 1:35:36 - INFO - Req!!!
+4.4.2022, 1:35:36 - INFO - Req from: ben
+4.4.2022, 1:35:36 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV","Elevator","Pool","Gym"]}
+4.4.2022, 1:35:38 - INFO - Req!!!
+4.4.2022, 1:35:38 - INFO - Req from: ben
+4.4.2022, 1:35:38 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["TV","Elevator","Pool","Gym"]}
+4.4.2022, 1:35:43 - INFO - Req!!!
+4.4.2022, 1:35:43 - INFO - Req from: ben
+4.4.2022, 1:35:43 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:35:44 - INFO - Req!!!
+4.4.2022, 1:35:44 - INFO - Req from: ben
+4.4.2022, 1:35:44 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:35:48 - INFO - Req!!!
+4.4.2022, 1:35:48 - INFO - Req from: ben
+4.4.2022, 1:35:48 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool"]}
+4.4.2022, 1:35:49 - INFO - Req!!!
+4.4.2022, 1:35:49 - INFO - Req from: ben
+4.4.2022, 1:35:49 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer"]}
+4.4.2022, 1:35:50 - INFO - Req!!!
+4.4.2022, 1:35:50 - INFO - Req from: ben
+4.4.2022, 1:35:50 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer","Gym"]}
+4.4.2022, 1:35:52 - INFO - Req!!!
+4.4.2022, 1:35:52 - INFO - Req from: ben
+4.4.2022, 1:35:52 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Pool","Dryer","Gym"]}
+4.4.2022, 1:39:25 - INFO - Req!!!
+4.4.2022, 1:39:25 - INFO - Req from: ben
+4.4.2022, 1:39:25 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:39:26 - INFO - Req!!!
+4.4.2022, 1:39:26 - INFO - Req from: ben
+4.4.2022, 1:39:26 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:39:36 - INFO - Req!!!
+4.4.2022, 1:39:36 - INFO - Req from: ben
+4.4.2022, 1:39:36 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+4.4.2022, 1:39:42 - INFO - Req!!!
+4.4.2022, 1:39:42 - INFO - Req from: ben
+4.4.2022, 1:39:42 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+4.4.2022, 1:40:46 - INFO - Req!!!
+4.4.2022, 1:40:46 - INFO - Req from: ben
+4.4.2022, 1:40:46 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:40:47 - INFO - Req!!!
+4.4.2022, 1:40:47 - INFO - Req from: ben
+4.4.2022, 1:40:47 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:41:00 - INFO - Req!!!
+4.4.2022, 1:41:00 - INFO - Req from: ben
+4.4.2022, 1:41:00 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer"]}
+4.4.2022, 1:41:01 - INFO - Req!!!
+4.4.2022, 1:41:01 - INFO - Req from: ben
+4.4.2022, 1:41:01 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool"]}
+4.4.2022, 1:41:02 - INFO - Req!!!
+4.4.2022, 1:41:02 - INFO - Req from: ben
+4.4.2022, 1:41:02 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool","Free canellation"]}
+4.4.2022, 1:41:03 - INFO - Req!!!
+4.4.2022, 1:41:03 - INFO - Req from: ben
+4.4.2022, 1:41:03 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool","Free canellation","Gym"]}
+4.4.2022, 1:41:04 - INFO - Req!!!
+4.4.2022, 1:41:04 - INFO - Req from: ben
+4.4.2022, 1:41:04 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool","Free canellation","Gym"]}
+4.4.2022, 1:43:30 - INFO - Req!!!
+4.4.2022, 1:43:30 - INFO - Req from: ben
+4.4.2022, 1:43:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Dryer","Pool","Free canellation","Gym"]}
+4.4.2022, 1:43:30 - INFO - Req!!!
+4.4.2022, 1:43:30 - INFO - Req from: ben
+4.4.2022, 1:43:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:43:32 - INFO - Req!!!
+4.4.2022, 1:43:32 - INFO - Req from: ben
+4.4.2022, 1:43:32 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:43:33 - INFO - Req!!!
+4.4.2022, 1:43:33 - INFO - Req from: ben
+4.4.2022, 1:43:33 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:43:34 - INFO - Req!!!
+4.4.2022, 1:43:34 - INFO - Req from: ben
+4.4.2022, 1:43:34 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Gym"]}
+4.4.2022, 1:43:36 - INFO - Req!!!
+4.4.2022, 1:43:36 - INFO - Req from: ben
+4.4.2022, 1:43:36 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 1:43:40 - INFO - Req!!!
+4.4.2022, 1:43:40 - INFO - Req from: ben
+4.4.2022, 1:43:40 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 1:43:41 - INFO - Req!!!
+4.4.2022, 1:43:41 - INFO - Req from: ben
+4.4.2022, 1:43:41 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":[]}
+4.4.2022, 1:43:49 - INFO - Req!!!
+4.4.2022, 1:43:49 - INFO - Req from: ben
+4.4.2022, 1:43:49 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 1:43:51 - INFO - Req!!!
+4.4.2022, 1:43:51 - INFO - Req from: ben
+4.4.2022, 1:43:51 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 2:08:20 - INFO - Req!!!
+4.4.2022, 2:08:20 - INFO - Req from: ben
+4.4.2022, 2:08:20 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":["Gym"]}
+4.4.2022, 2:08:21 - INFO - Req!!!
+4.4.2022, 2:08:21 - INFO - Req from: ben
+4.4.2022, 2:08:21 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":["Gym","Free canellation"]}
+4.4.2022, 2:08:22 - INFO - Req!!!
+4.4.2022, 2:08:22 - INFO - Req from: ben
+4.4.2022, 2:08:22 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":["Gym"]}
+4.4.2022, 2:08:23 - INFO - Req!!!
+4.4.2022, 2:08:23 - INFO - Req from: ben
+4.4.2022, 2:08:23 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":50,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 2:10:52 - INFO - Req!!!
+4.4.2022, 2:10:52 - INFO - Req from: ben
+4.4.2022, 2:10:52 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":50,"maxPrice":300,"roomType":[],"amenities":[]}
+4.4.2022, 2:10:52 - INFO - Req!!!
+4.4.2022, 2:10:52 - INFO - Req from: ben
+4.4.2022, 2:10:52 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:10:55 - INFO - Req!!!
+4.4.2022, 2:10:55 - INFO - Req from: ben
+4.4.2022, 2:10:55 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:10:55 - INFO - Req!!!
+4.4.2022, 2:10:55 - INFO - Req from: ben
+4.4.2022, 2:10:55 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:10:58 - INFO - Req!!!
+4.4.2022, 2:10:58 - INFO - Req from: ben
+4.4.2022, 2:10:58 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:11:05 - INFO - Req!!!
+4.4.2022, 2:11:05 - INFO - Req from: ben
+4.4.2022, 2:11:05 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:11:06 - INFO - Req!!!
+4.4.2022, 2:11:06 - INFO - Req from: ben
+4.4.2022, 2:11:06 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:11:07 - INFO - Req!!!
+4.4.2022, 2:11:07 - INFO - Req from: ben
+4.4.2022, 2:11:07 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:11:08 - INFO - Req!!!
+4.4.2022, 2:11:08 - INFO - Req from: ben
+4.4.2022, 2:11:08 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:11:17 - INFO - Req!!!
+4.4.2022, 2:11:17 - INFO - Req from: ben
+4.4.2022, 2:11:17 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:11:17 - INFO - Req!!!
+4.4.2022, 2:11:17 - INFO - Req from: ben
+4.4.2022, 2:11:17 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:11:57 - INFO - Req!!!
+4.4.2022, 2:11:57 - INFO - Req from: ben
+4.4.2022, 2:11:57 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":[]}
+4.4.2022, 2:12:01 - INFO - Req!!!
+4.4.2022, 2:12:01 - INFO - Req from: ben
+4.4.2022, 2:12:01 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:12:02 - INFO - Req!!!
+4.4.2022, 2:12:02 - INFO - Req from: ben
+4.4.2022, 2:12:02 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":[]}
+4.4.2022, 2:12:03 - INFO - Req!!!
+4.4.2022, 2:12:03 - INFO - Req from: ben
+4.4.2022, 2:12:03 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":106,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:12:18 - INFO - Req!!!
+4.4.2022, 2:12:18 - INFO - Req from: ben
+4.4.2022, 2:12:18 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":88,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:12:20 - INFO - Req!!!
+4.4.2022, 2:12:20 - INFO - Req from: ben
+4.4.2022, 2:12:20 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":47,"maxPrice":88,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:13:53 - INFO - Server is running on port: 3030
+4.4.2022, 2:14:04 - INFO - Server is running on port: 3030
+4.4.2022, 2:14:10 - INFO - Req!!!
+4.4.2022, 2:14:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":47,"maxPrice":88,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:14:10 - INFO - Req!!!
+4.4.2022, 2:14:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:15 - INFO - Req!!!
+4.4.2022, 2:14:15 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:16 - INFO - Req!!!
+4.4.2022, 2:14:16 - DEBUG - criteria after filter :>> | {"destination":"Porto","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:30 - INFO - Req!!!
+4.4.2022, 2:14:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:30 - INFO - Req!!!
+4.4.2022, 2:14:30 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:35 - INFO - Req!!!
+4.4.2022, 2:14:35 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:42 - INFO - Req!!!
+4.4.2022, 2:14:42 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:48 - INFO - Req!!!
+4.4.2022, 2:14:48 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:14:48 - INFO - Req!!!
+4.4.2022, 2:14:48 - DEBUG - criteria after filter :>> | {"destination":"Barcelona","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:15:09 - INFO - Req!!!
+4.4.2022, 2:15:09 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:15:09 - INFO - Req!!!
+4.4.2022, 2:15:09 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:44:03 - INFO - Req!!!
+4.4.2022, 2:44:03 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:44:04 - INFO - Req!!!
+4.4.2022, 2:44:04 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:44:08 - INFO - Req!!!
+4.4.2022, 2:44:08 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials"]}
+4.4.2022, 2:44:09 - INFO - Req!!!
+4.4.2022, 2:44:09 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Essentials","Pool"]}
+4.4.2022, 2:44:15 - INFO - Req!!!
+4.4.2022, 2:44:15 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":["Essentials","Pool"]}
+4.4.2022, 2:44:16 - INFO - Req!!!
+4.4.2022, 2:44:16 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Entire home/apt"],"amenities":["Essentials","Pool"]}
+4.4.2022, 2:44:24 - INFO - Req!!!
+4.4.2022, 2:44:24 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":["Essentials","Pool"]}
+4.4.2022, 2:44:25 - INFO - Req!!!
+4.4.2022, 2:44:25 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":["Essentials","Pool"]}
+4.4.2022, 2:44:32 - INFO - Req!!!
+4.4.2022, 2:44:32 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":["Essentials"]}
+4.4.2022, 2:44:35 - INFO - Req!!!
+4.4.2022, 2:44:35 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":["Private room"],"amenities":["Essentials","Wifi"]}
+4.4.2022, 2:44:41 - INFO - Req!!!
+4.4.2022, 2:44:41 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":114,"roomType":["Private room"],"amenities":["Essentials","Wifi"]}
+4.4.2022, 2:44:42 - INFO - Req!!!
+4.4.2022, 2:44:42 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":114,"roomType":["Private room"],"amenities":["Essentials","Wifi"]}
+4.4.2022, 2:50:57 - INFO - Req!!!
+4.4.2022, 2:50:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":38,"maxPrice":114,"roomType":["Private room"],"amenities":["Essentials","Wifi"]}
+4.4.2022, 2:50:57 - INFO - Req!!!
+4.4.2022, 2:50:57 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:51:14 - DEBUG - auth.service - login with username: ben
+4.4.2022, 2:51:18 - INFO - Req!!!
+4.4.2022, 2:51:18 - INFO - Req from: ben
+4.4.2022, 2:51:18 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:51:19 - INFO - Req!!!
+4.4.2022, 2:51:19 - INFO - Req from: ben
+4.4.2022, 2:51:19 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:51:21 - INFO - Req!!!
+4.4.2022, 2:51:21 - INFO - Req from: ben
+4.4.2022, 2:51:21 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:51:24 - INFO - Req!!!
+4.4.2022, 2:51:24 - INFO - Req from: ben
+4.4.2022, 2:51:24 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:52:54 - INFO - Req!!!
+4.4.2022, 2:52:54 - INFO - Req from: ben
+4.4.2022, 2:52:54 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:52:54 - INFO - Req!!!
+4.4.2022, 2:52:54 - INFO - Req from: ben
+4.4.2022, 2:52:54 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:52:56 - INFO - Req!!!
+4.4.2022, 2:52:56 - INFO - Req from: ben
+4.4.2022, 2:52:56 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:53:51 - INFO - Req!!!
+4.4.2022, 2:53:51 - INFO - Req from: ben
+4.4.2022, 2:53:51 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:53:51 - INFO - Req!!!
+4.4.2022, 2:53:51 - INFO - Req from: ben
+4.4.2022, 2:53:51 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:53:52 - INFO - Req!!!
+4.4.2022, 2:53:52 - INFO - Req from: ben
+4.4.2022, 2:53:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:53:53 - INFO - Req!!!
+4.4.2022, 2:53:53 - INFO - Req from: ben
+4.4.2022, 2:53:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:53:55 - INFO - Req!!!
+4.4.2022, 2:53:55 - INFO - Req from: ben
+4.4.2022, 2:53:55 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:53:56 - INFO - Req!!!
+4.4.2022, 2:53:56 - INFO - Req from: ben
+4.4.2022, 2:53:56 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 2:53:57 - INFO - Req!!!
+4.4.2022, 2:53:57 - INFO - Req from: ben
+4.4.2022, 2:53:57 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:54:05 - INFO - Req!!!
+4.4.2022, 2:54:05 - INFO - Req from: ben
+4.4.2022, 2:54:05 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:54:06 - INFO - Req!!!
+4.4.2022, 2:54:06 - INFO - Req from: ben
+4.4.2022, 2:54:06 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 2:54:11 - INFO - Req!!!
+4.4.2022, 2:54:11 - INFO - Req from: ben
+4.4.2022, 2:54:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":38,"maxPrice":102,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 3:07:50 - INFO - Req!!!
+4.4.2022, 3:07:50 - INFO - Req from: ben
+4.4.2022, 3:07:50 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 3:08:25 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:09:22 - DEBUG - auth.service - login with username: yosef
+4.4.2022, 3:09:32 - INFO - Req!!!
+4.4.2022, 3:09:32 - INFO - Req from: yosef
+4.4.2022, 3:09:32 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 3:09:34 - INFO - Req!!!
+4.4.2022, 3:09:34 - INFO - Req from: yosef
+4.4.2022, 3:09:34 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 3:09:35 - INFO - Req!!!
+4.4.2022, 3:09:35 - INFO - Req from: yosef
+4.4.2022, 3:09:35 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 3:09:43 - INFO - Req!!!
+4.4.2022, 3:09:43 - INFO - Req from: yosef
+4.4.2022, 3:09:43 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":100,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 3:09:45 - INFO - Req!!!
+4.4.2022, 3:09:45 - INFO - Req from: yosef
+4.4.2022, 3:09:45 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":38,"maxPrice":100,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 3:09:49 - INFO - Req!!!
+4.4.2022, 3:09:49 - INFO - Req from: yosef
+4.4.2022, 3:09:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":38,"maxPrice":100,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 3:27:45 - INFO - Server is running on port: 3030
+4.4.2022, 3:28:11 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:28:24 - INFO - Req!!!
+4.4.2022, 3:28:24 - INFO - Req from: yarden
+4.4.2022, 3:28:25 - ERROR - cannot find orders | {}
+4.4.2022, 3:28:25 - ERROR - Failed to get orders | {}
+4.4.2022, 3:29:30 - INFO - Server is running on port: 3030
+4.4.2022, 3:29:36 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:29:44 - INFO - Req!!!
+4.4.2022, 3:29:44 - INFO - Req from: yarden
+4.4.2022, 3:29:44 - ERROR - cannot find orders | {}
+4.4.2022, 3:29:44 - ERROR - Failed to get orders | {}
+4.4.2022, 3:47:13 - INFO - Server is running on port: 3030
+4.4.2022, 3:49:03 - INFO - Server is running on port: 3030
+4.4.2022, 3:50:07 - INFO - Server is running on port: 3030
+4.4.2022, 3:50:13 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:50:28 - INFO - Req!!!
+4.4.2022, 3:50:28 - INFO - Req from: yarden
+4.4.2022, 3:51:00 - INFO - Server is running on port: 3030
+4.4.2022, 3:51:33 - INFO - Server is running on port: 3030
+4.4.2022, 3:52:50 - INFO - Server is running on port: 3030
+4.4.2022, 3:52:56 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:53:18 - INFO - Req!!!
+4.4.2022, 3:53:18 - INFO - Req from: yarden
+4.4.2022, 3:54:32 - INFO - Server is running on port: 3030
+4.4.2022, 3:54:37 - INFO - Server is running on port: 3030
+4.4.2022, 3:54:40 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:54:47 - INFO - Req!!!
+4.4.2022, 3:54:47 - INFO - Req from: yarden
+4.4.2022, 3:55:48 - INFO - Server is running on port: 3030
+4.4.2022, 3:55:54 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 3:56:02 - INFO - Req!!!
+4.4.2022, 3:56:02 - INFO - Req from: yarden
+4.4.2022, 3:56:54 - INFO - Server is running on port: 3030
+4.4.2022, 3:56:59 - INFO - Req!!!
+4.4.2022, 4:06:24 - INFO - Server is running on port: 3030
+4.4.2022, 4:16:08 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:16:15 - INFO - Req!!!
+4.4.2022, 4:16:15 - INFO - Req from: yarden
+4.4.2022, 4:19:33 - INFO - Server is running on port: 3030
+4.4.2022, 4:20:27 - INFO - Server is running on port: 3030
+4.4.2022, 4:20:43 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:20:53 - INFO - Req!!!
+4.4.2022, 4:20:53 - INFO - Req from: yarden
+4.4.2022, 4:24:17 - INFO - Server is running on port: 3030
+4.4.2022, 4:24:20 - INFO - Req!!!
+4.4.2022, 4:24:20 - ERROR - cannot find orders | {}
+4.4.2022, 4:24:20 - ERROR - Failed to get orders | {}
+4.4.2022, 4:24:35 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:24:43 - INFO - Req!!!
+4.4.2022, 4:24:43 - INFO - Req from: yarden
+4.4.2022, 4:26:40 - INFO - Server is running on port: 3030
+4.4.2022, 4:26:50 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:27:02 - INFO - Req!!!
+4.4.2022, 4:27:02 - INFO - Req from: yarden
+4.4.2022, 4:31:43 - INFO - Server is running on port: 3030
+4.4.2022, 4:31:52 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:31:57 - INFO - Req!!!
+4.4.2022, 4:31:57 - INFO - Req from: yarden
+4.4.2022, 4:33:12 - INFO - Server is running on port: 3030
+4.4.2022, 4:33:18 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:33:25 - INFO - Req!!!
+4.4.2022, 4:33:25 - INFO - Req from: yarden
+4.4.2022, 4:35:02 - INFO - Server is running on port: 3030
+4.4.2022, 4:35:08 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:35:12 - INFO - Req!!!
+4.4.2022, 4:35:12 - INFO - Req from: yarden
+4.4.2022, 4:35:49 - INFO - Server is running on port: 3030
+4.4.2022, 4:36:36 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:36:45 - INFO - Req!!!
+4.4.2022, 4:36:45 - INFO - Req from: yarden
+4.4.2022, 4:38:05 - INFO - Server is running on port: 3030
+4.4.2022, 4:38:08 - INFO - Server is running on port: 3030
+4.4.2022, 4:38:25 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 4:38:33 - INFO - Req!!!
+4.4.2022, 4:38:33 - INFO - Req from: yarden
+4.4.2022, 4:42:32 - INFO - Server is running on port: 3030
+4.4.2022, 4:46:11 - INFO - Req!!!
+4.4.2022, 4:46:11 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:46:15 - INFO - Req!!!
+4.4.2022, 4:46:15 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:46:16 - INFO - Req!!!
+4.4.2022, 4:46:16 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:46:17 - INFO - Req!!!
+4.4.2022, 4:46:17 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 4:46:23 - INFO - Req!!!
+4.4.2022, 4:46:23 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":["Air conditioning"]}
+4.4.2022, 4:46:55 - INFO - Req!!!
+4.4.2022, 4:46:55 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:47:00 - INFO - Req!!!
+4.4.2022, 4:47:00 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:47:01 - INFO - Req!!!
+4.4.2022, 4:47:01 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:47:03 - INFO - Req!!!
+4.4.2022, 4:47:03 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+>>>>>>> cf7d9c9ce1ede496731e2e232f83aba2bd3179cc
+4/4/2022, 5:05:35 AM - INFO - Server is running on port: 3030

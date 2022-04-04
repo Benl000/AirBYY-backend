@@ -8,7 +8,7 @@ async function query(filterBy) {
     try {
         const criteria = _buildCriteria(filterBy);
         const collection = await dbService.getCollection('room');
-        var rooms = await collection.find(criteria).limit(20).toArray();
+        var rooms = await collection.find(criteria).limit(30).toArray();
         // console.log('query inline 12 rooms :>> ' ,rooms);
         return rooms;
     } catch (err) {
