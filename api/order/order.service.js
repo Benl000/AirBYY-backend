@@ -73,7 +73,7 @@ function _buildCriteria(userId) {
     // var criteria = {};
     console.log('roomservice line37 :>>', userId);
     if (userId) {
-        criteria = {"reserve.hostId": "userId"}
+        criteria.$all = {"reserve.hostId": "userId"}
     }
     console.log('build criteria line 75 :>>>>>>>>', criteria);
     return criteria

@@ -5183,3 +5183,47 @@
 4.4.2022, 4:47:01 - DEBUG - criteria after filter :>> | {"destination":"New York","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
 4.4.2022, 4:47:03 - INFO - Req!!!
 4.4.2022, 4:47:03 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 4:55:34 - INFO - Req!!!
+4.4.2022, 4:55:34 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 5:01:47 - INFO - Req!!!
+4.4.2022, 5:01:47 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 5:03:20 - INFO - Server is running on port: 3030
+4.4.2022, 5:03:29 - DEBUG - auth.service - login with username: yarden
+4.4.2022, 5:03:37 - INFO - Req!!!
+4.4.2022, 5:03:37 - INFO - Req from: yarden
+4.4.2022, 5:03:37 - ERROR - cannot find orders | {}
+4.4.2022, 5:03:37 - ERROR - Failed to get orders | {}
+4.4.2022, 5:04:12 - INFO - Req!!!
+4.4.2022, 5:04:12 - INFO - Req from: yarden
+4.4.2022, 5:04:12 - ERROR - cannot find orders | {}
+4.4.2022, 5:04:12 - ERROR - Failed to get orders | {}
+4.4.2022, 5:04:47 - INFO - Server is running on port: 3030
+4.4.2022, 8:06:49 - INFO - Req!!!
+4.4.2022, 8:06:49 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:45:04 - INFO - Req!!!
+4.4.2022, 9:45:04 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:45:12 - INFO - Req!!!
+4.4.2022, 9:45:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:45:56 - INFO - Server is running on port: 3030
+4.4.2022, 9:47:26 - INFO - Server is running on port: 3030
+4.4.2022, 9:48:42 - INFO - Req!!!
+4.4.2022, 9:48:42 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:51:59 - INFO - Server is running on port: 3030
+4.4.2022, 9:55:44 - INFO - Server is running on port: 3030
+4.4.2022, 9:56:36 - INFO - Req!!!
+4.4.2022, 9:56:36 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:57:12 - INFO - Req!!!
+4.4.2022, 9:57:12 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 9:57:47 - INFO - Server is running on port: 3030
+4.4.2022, 9:57:53 - INFO - Req!!!
+4.4.2022, 9:57:53 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 10:00:09 - INFO - Server is running on port: 3030
+4.4.2022, 10:02:46 - INFO - Server is running on port: 3030
+4.4.2022, 10:03:02 - INFO - Req!!!
+4.4.2022, 10:03:03 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 10:04:06 - INFO - Server is running on port: 3030
+4.4.2022, 10:04:10 - INFO - Req!!!
+4.4.2022, 10:04:10 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
+4.4.2022, 10:04:42 - INFO - Server is running on port: 3030
+4.4.2022, 10:04:46 - INFO - Req!!!
+4.4.2022, 10:04:46 - DEBUG - criteria after filter :>> | {"destination":"","minPrice":0,"maxPrice":10000,"roomType":[],"amenities":[]}
